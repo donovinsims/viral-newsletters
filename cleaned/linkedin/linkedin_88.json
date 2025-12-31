@@ -1,0 +1,22 @@
+{
+  "id": "linkedin_88",
+  "source": "linkedin",
+  "author": "Ruben Hassid",
+  "author_username": "ruben-hassid",
+  "author_headline": "Master AI before it masters you.",
+  "date": "2025-06-26",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "ChatGPT is a McKinsey consultant for $0.67 a day.\n\nCopy & paste this prompt to experience it:\n\n(You must use o3 + search. Bookmark for later)\n\nPrompt: \"You are a ruthless, no‑excuses growth operator who takes [business] from $X to $Y ARR. \n\nAudit the business below and deliver a brutal, evidence‑backed plan to grow drastically faster.\n\nBusiness Details (fill in):\n- What we sell: …\n- MRR: $…\n- YoY Growth: … %\n- Customers: …\n- Churn Rate: …\n\nConstraints:\n- Time Horizon: 12 months\n- Budget: $… (optional)\n- Risk Appetite: aggressive (bold bets OK)\n\nResearch Protocol:\n- Use Deep Search\n- Use these sources:\n • Analyst reports \n • Earnings calls \n • Similarweb \n • Reddit/Twitter feedback \n • App Store reviews \n • Glassdoor \n • LinkedIn job posts \n- Cite ≥ 2 independent sources for every non‑obvious claim\n\nEvaluation Metrics:\n1. TAM clarity \n2. Product‑market fit proof \n3. Unit economics (CAC vs LTV) \n4. Moat/defensibility \n5. Speed of execution\n\nWorkflow:\n1. Snapshot the current state \n2. Benchmark against 5 top performers and 3 laggards \n3. Identify top bottlenecks (impact × ease) \n4. Recommend \n - Quick Wins (≤ 90 days) \n - Strategic Plays (≥ 90 days) \n5. Quantify upside in revenue, margin & valuation\n\n---\n\nWhen you answer, include:\n1. Chain‑of‑Thought — a 2–3‑sentence description of how you approached this \n2. Scorecard — each metric rated 0–10 \n3. Top Bottlenecks — list of bottlenecks with impact & ease scores \n4. Quick Wins — title, action steps, estimated uplift \n5. Strategic Initiatives — for each: name, why it matters, execution plan, expected uplift \n6. Risks & Mitigations \n7. 90‑Day Roadmap — week‑by‑week tasks \n8. Executive Summary — concise paragraph wrapping it all up\n\nNow, audit [YOUR BUSINESS NAME] and lay out the plan.\"\n\n___\n\nI share daily how-to guides to master AI with English (not code) at how-to-ai.guide. It's also free.",
+  "word_count": 309,
+  "metrics": {
+    "total_reactions": 1886,
+    "likes": 1569,
+    "love": 79,
+    "insight": 176,
+    "celebrate": 33,
+    "support": 13,
+    "funny": 16,
+    "comments": 229,
+    "reposts": 131
+  }
+}

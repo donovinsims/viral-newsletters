@@ -1,0 +1,22 @@
+{
+  "id": "linkedin_85",
+  "source": "linkedin",
+  "author": "Ruben Hassid",
+  "author_username": "ruben-hassid",
+  "author_headline": "Master AI before it masters you.",
+  "date": "2025-06-24",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "Save this ChatGPT tree before your next prompt.\n\nStep 1: is it like a Google Search? \n\n☑️ No: use gpt-4o.\n\n☑️ Yes: use o3 reasoning.\n\nStep 2: If you pick o3 reasoning:\n→ Need more than 10 sources?\n\n☑️ No: Continue. Upload PDFs, CSVs, images. \no3 (much) better at reading & analysing long PDFs.\n\nPrompt example:  \nAct like [expertise]. Here’s [CSV]. Here’s my context: [context]. Question 1 – 2 – 3.\n\n☑️ Yes: Deep Research. \nClick on “Tools” and select “Run deep research”.\nMake sure “Web search” is turned on.\nConnect more data with “Connect more”.\n\nPrompt example:  \nI want [results] with [constraints]. [What/How/Why] has been [results]?\n\nAfter deep research:\n\n→ Download PDF.  \n→ Ask for step-by-step plan.  \n→ Share link to others.\n\nStep 3: If you pick GPT‑4o\n\n☑️ Create images → Write an image prompt. \n\nPrompt example:\n\"Create image remake this photo taken from a book, with same low-quality, yellow highlighted text, and film-grain from a book. But change the quote for this: \"YOUR QUOTE\"\n\n☑️ Use voice mode → Write a translation prompt. \n\nPrompt example:\n\"Act as a pro bilingual voice translator. First ask: \"Who are the 2 speakers & their native languages?\" Then translate each side’s words clearly, preserving tone. Be neutral. Take a deep breath and work on this problem step‑by‑step.\"\n\n☑️ Use more connectors → Gmail, Teams, Outlook, Google Drive, HubSpot and more.\n\n☑️ Use prompting technique:\n- Start with a role\n- State the task\n- Give brief context\n- Quote the input\n- Name the audience\n- Set the goal\n- Limit the length\n- Fix output form\n- Ask for silent think\n- Cue creativity\n- Ban unwanted words",
+  "word_count": 278,
+  "metrics": {
+    "total_reactions": 1775,
+    "likes": 1571,
+    "love": 67,
+    "insight": 102,
+    "celebrate": 20,
+    "support": 14,
+    "funny": 1,
+    "comments": 296,
+    "reposts": 114
+  }
+}

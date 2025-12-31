@@ -1,0 +1,22 @@
+{
+  "id": "linkedin_87",
+  "source": "linkedin",
+  "author": "Ruben Hassid",
+  "author_username": "ruben-hassid",
+  "author_headline": "Master AI before it masters you.",
+  "date": "2025-06-25",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "You underestimate the power of ChatGPTs memory.\n\nCopy & paste my prompt to update it:\n\n– THE PROMPT TO UPDATE THE MEMORY –\n\n## MEMORY_WRITE\nFact: “[what you want exactly]”\nPurpose: “[in which context you need it]”\n## END\n\n______________________________\n\n– THE PROMPT TO ERASE THE MEMORY –\n\nForget the following instruction stored in your memory:\n\n## instructions to delete\n\n## MEMORY_WRITE\nFact: “[what you want exactly]”\nPurpose: “[in which context you need it]”\n## END\n\n## END\n\n______________________________\n\n\n\nI share (much) more for free at how-to-ai.guide.",
+  "word_count": 87,
+  "metrics": {
+    "total_reactions": 1995,
+    "likes": 1717,
+    "love": 69,
+    "insight": 183,
+    "celebrate": 16,
+    "support": 7,
+    "funny": 3,
+    "comments": 333,
+    "reposts": 89
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "linkedin_8",
+  "source": "linkedin",
+  "author": "Ruben Hassid",
+  "author_username": "ruben-hassid",
+  "author_headline": "Master AI before it masters you.",
+  "date": "2025-05-16",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "You underestimate good ChatGPT prompts.\n\nHere are the 17 golden rules of ChatGPT:\n\n1. Start with a Role\n  “Act like \\[expert]” so ChatGPT adopts the right expertise and tone.\n\n2. State Your Objective\n  Skip “Hi” & “Thank you.” Begin with a concise mission.\n\n3. Tell Who It’s For\n  “Explain to someone who knows nothing about the topic.”\n\n4. Use Positive, Direct Commands\n  “List three reasons,” not “Don’t forget to avoid mistakes.”\n\n5. Break Big Tasks into Steps\n  Step 1: “Write an outline.”\n  Step 2: “Fill in each point with details.”\n\n6. Provide Clean Examples\n  Show “input → output.” Keep them uniform and tightly focused on what you want.\n\n7. Ask for the Format\n  Tell it exactly how to structure: “Send a table with two columns.”\n\n8. Choose Your “Shots”\n\n  * Zero‑shot: “Translate to French.”\n  * One‑shot: Provide one example.\n  * Few‑shot: Supply 3–5 labeled examples separated by ###.\n\n9. Set Simple Limits\n  Limit length, style, or content: “No more than 100 words.”\n\n10. Invoke Frameworks\n  Tap AIDA, PAS, or your own frameworks: “Follow PAS model: Problem → Agitate → Solve.”\n\n11. Provide Precise Feedback\n  Point to the line or bullet: “In bullet # 2, add a statistic on market growth.”\n\n12. Ask for Chain‑of‑Thought\n  For transparency, request “Show your reasoning step by step,” or “Think aloud in bullet points.”\n\n13. Skip Polite Words\n  No need for “please” or “thank you.” Just say what you need.\n\n14. Iterate on Your Prompts\n  Compare variants. Use the one that performs best.\n\n15. Repeat or Emphasize Key Points\n  “Remember: brief, clear, and friendly.”\n\n16. Try Different Wording\n  Compare “Summarize X” vs. “Give me a quick recap of X.”\n\n17. Use an Encouraging Cue\n  “Take a deep breath, then walk through each step one at a time.”\n\n__\n\nFollow Ruben Hassid for more (I post twice a day).",
+  "word_count": 303,
+  "metrics": {
+    "total_reactions": 3706,
+    "likes": 3315,
+    "love": 126,
+    "insight": 218,
+    "celebrate": 29,
+    "support": 11,
+    "funny": 7,
+    "comments": 559,
+    "reposts": 349
+  }
+}

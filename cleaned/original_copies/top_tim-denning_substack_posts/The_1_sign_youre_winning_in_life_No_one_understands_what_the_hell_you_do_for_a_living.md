@@ -1,0 +1,163 @@
+# The #1 sign you’re winning in life: No one understands what the hell you do for a living.
+
+**Author:** Unknown Author | **Date:** Unknown Date
+
+**Source URL:** https://timdenning.substack.com/p/the-1-sign-youre-winning-in-life
+
+---
+
+# The #1 sign you’re winning in life: No one understands what the hell you do for a living.
+
+### Be unexplainable.
+
+Share
+
+The average person wants to be rich and famous.
+
+There’s a better goal. Choose a life so far away from a typical career that no one understands what the hell you do for a living.
+
+The most successful people I’ve ever met live this way. They’re unexplainable. They can’t be summarised in a 30-second elevator pitch. There’s nuance to their story. They have scars. They don’t openly share everything.
+
+# The price of freedom is being misunderstood
+
+No one knows what I do for a living.
+
+My neighbours think I’m a drug dealer. They say I use my two Teslas to transport coke. They think this way because I’m always home. In the middle of the day they’ll see me on the porch drinking orange juice. Or playing in the backyard with my kiddo.
+
+“Who the heck has a tea party with a 2 year old at 10:26 AM on a Monday?” they say.
+
+Former colleagues have speculated that I have a hidden trust fund. That I’m secretly the son of an African prince and have millions deposited into my bank account every month. Nice theory. Would be cool.
+
+Others in my neighbourhood have a much smaller imagination. They just think I’m flat-out unemployed. That I’ve been unemployable for 5 years. That my wife must be the breadwinner and have a high-paying job. My wife is actually the unemployed one right now.
+
+She got fired for being 7 months pregnant.
+
+So much for 9-5 job security.
+
+I don’t make things easier for people. When they ask what I do for a living I either change the subject or tell them I work in finance. That’s technically lying. I shouldn’t do it. I know it’s bad.
+
+I just can’t be f*cked with the judgment anymore.
+
+When I was actually a banker in my former life, people understood it. They know what a banker does. They likely know the bank I worked for. They can easily put me in a box. They can correctly label me. They can google me and see my resume on LinkedIn.
+
+Not anymore.
+
+How the f*ck would I ever explain to a normal person what I do for a living now? Writer? No. Influencer? No. Online business? No. Affiliate marketer? No. Workshop guy? Online education? Youtuber?
+
+What I now do for work is unexplainable. Even potential clients can get confused. “Do you have a website that explains your business, what you sell, how much, etc?”
+
+They’re devastated when I tell them there’s no website. It’s invite-only. I keep quiet. I don’t advertise much.
+
+Even people I do work with get confused. At a surface level I come across as some sort of internet marketer, business consultant, or even coach. And on some days I’m some of those things. But I got thinking about this recently and had a revelation.
+
+On the surface, I help people start or grow a digital business. But I’m not a shallow guy. If I get a little more philosophical, what I end up realizing I do is help people figure out what they want to do with their life. And I help them feed their family with new income streams.
+
+When I think about what I do in this way, I get emotional.
+
+Why?
+
+Because the stakes are extremely high. If I fail to help someone figure out what they want to do with their life, it may not end well. They may even take their life. And if I fail at helping them with monetisation, then their kids may starve.
+
+Trying to explain that in a f*cking 30-second elevator pitch to the average person who just wants to put you in a box and slap a label on you so they can understand… is exhausting.
+
+The moment you stop fitting into society’s boxes, they’ll call you crazy, lucky, or a liar.
+
+# The best way to make a living is to be deeply philosophical
+
+Too many people don’t comprehend the bigger picture.
+
+They choose a career or a way to earn a living and don’t understand what they really do. When this happens you don’t deeply connect to your why. So you don’t have the motivation, energy, and drive to succeed in any field.
+
+Every pursuit in life can be broken apart and tied to a bigger goal or impact. When you do that it reframes the meaning of your life and will likely inspire you to:
+
+* Be better
+* Be relentless
+* Be obsessed
+* Stop lollygagging through life and take action
+
+Be better
+
+Be relentless
+
+Be obsessed
+
+Stop lollygagging through life and take action
+
+A philosophical approach to work and making a living gives us purpose. And without purpose it’s impossible to be successful or do hard work.
+
+# One of the hardest jobs to explain in history
+
+Adam Steltzner proves the point.
+
+The more unexplainable your work, the greater your contribution. He’s an aerospace engineer at JPL who worked on the Mars missions (the planet, not the chocolate bar). He’s responsible for the sky crane system that the curiosity rover used.
+
+The systems he designs look crazy to normal people. The job he has isn’t a conventional 9-5. The job description reads: it’s complicated.
+
+If you had to document some of what he does, you might write:
+
+* designing novel landing systems for Mars
+* dynamic systems engineering
+* bridging physics
+* robotics
+* software
+* mission risk
+
+designing novel landing systems for Mars
+
+dynamic systems engineering
+
+bridging physics
+
+robotics
+
+software
+
+mission risk
+
+You could add the word AI, too, if you wanted more buzzwords for LinkedIn.
+
+Unless you worked in aerospace or engineering, most of what he says would go over your head. Amateurs say he makes sure rockets don’t crash in space. This massively undersells what he does.
+
+Because the work he does is futuristic, uncommon, and changes the world in a big way (if we ever live on Mars), people don’t get it.
+
+People like Adam who live on the extremes don’t have job titles. They’re not following a career path. You can’t predict where or what they’ll be doing in a year.
+
+The exact inability for someone to summarize your job at a glance is a strong sign: you’re not doing something routine. You’re doing something exceptional. You’re winning in life.
+
+> “Society wants to make you soft. It wants you to fit in. The moment you stand out, you make people uncomfortable.” – David Goggins
+
+“Society wants to make you soft. It wants you to fit in. The moment you stand out, you make people uncomfortable.” – David Goggins
+
+# Privacy is wealth
+
+It blows my mind how many people want to be famous.
+
+They think if they have a New York Times Best-Selling book or give a Ted Talk with 60M views online their life will be better. After 11 years of doing what I do, I’ve realized fame is a nightmare. And I’ve gone mostly off-grid.
+
+When people don’t understand what you do, you gain something they can’t: privacy. Real wealth isn’t attention, it’s the freedom to live unlabelled.
+
+It’s having people not understand you. It’s explaining yourself to no one. It’s not being able to be explained with a title like Director, Founder, Engineer, Analyst, Customer Success Manager, Salesperson, Marketing Executive.
+
+If what you do can be explained with a simple label normies understand, you’re not thinking big enough. You’re not leaning into your full potential.
+
+Choose to live a life no one understands. That’s how you win in your 20s, 30s, 40s, or 50s.
+
+If the measure of a life well-lived is being unexplainable, how many people are truly living? Let me know you thoughts in the comments below.
+
+---
+
+P.S. I coach a handful of clients who accomplish exactly this.
+
+They don’t have a huge following.
+
+They aren’t famous.
+
+Nobody outside our circle really understands HOW they make money.
+
+And yet...
+
+The money gets made.
+
+I’ve opened up 7 new spots for people who want to be coached by me and my inner circle.
+
+Here’s how you get a shot at it:1. Reply to this email.2. Say “I’m in”3. I’ll get you the details ASAP.

@@ -1,0 +1,236 @@
+# You Must Master the Art of Unproductivity If You Want to Be Successful in the New Economy
+
+**Author:** Unknown Author | **Date:** Unknown Date
+
+**Source URL:** https://timdenning.substack.com/p/you-must-master-the-art-of-unproductivity
+
+---
+
+# You Must Master the Art of Unproductivity If You Want to Be Successful in the New Economy
+
+### #6 – Practice forced solitude while smoking a fat corn cob pipe.
+
+![Tim Denning's avatar](https://substackcdn.com/image/fetch/$s_!3z15!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cc38c42-e829-47d1-ad32-f1712eefc5d4_1101x1030.jpeg)
+
+![](https://substackcdn.com/image/fetch/$s_!0dck!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26f73617-4fc7-4d55-94ac-9ec4b01edd92_999x869.jpeg)
+
+Share
+
+The productivity cult is about to die.
+
+Finally. Many of us have been praying to a fake god for this moment in history. It’s here. Happy dance. Yay.
+
+In the old economy, it was all about productivity.
+
+* Hustle hard and work long hours
+* Use productivity apps
+* Attend lots of meetings
+* Consume endless amounts of information
+
+Hustle hard and work long hours
+
+Use productivity apps
+
+Attend lots of meetings
+
+Consume endless amounts of information
+
+What’s changed is AI can now do hard work and meaningless admin at scale. Every day that passes, AI can do more of humans' bullsh*t work.
+
+Fast forward two more years and humans won’t need to do many of the hard work activities we once did. It’s going to leave a strange void in the world. For once in humanity’s existence we’ll have a lot less to do.
+
+Before you get excited, it doesn’t mean we’ll all be sitting on mobile recliners watching Netflix all day, as the animated movie Walle-E suggested. No.
+
+What it means is productivity will no longer f*cking matter.
+
+What will now matter is creativity.
+
+Music, art, acting, painting, solving hard problems…. will go back to being the dominant forces that shape the world, the way they did during the Renaissance period hundreds of years ago.
+
+To prepare for this creative revolution, you’ll need to master the art of unproductivity. Unlike productive habits, the ones that help you be more creative are uns*xy as hell.
+
+Here are the new habits you’ll need to master.
+
+# Walk like Socrates through nature as if it’s 350 BC
+
+The modern workday sucks because it doesn’t include walking.
+
+You wake up in a box. Eat from a box. Commute in a box to an office cubicle. And maybe drink a cylinder of Coke for lunch to change things up.
+
+When I started working for myself one thing that changed is I began to walk like a madman. I’d often turn meetings into walking meetings. I found not only did I feel better, but I was more creative. Walking in nature takes it a step further.
+
+The greenery and fresh air help the mind unwind.
+
+Dan Koe once said:
+
+> “Ancient Romans and Greeks, Steve Jobs, Charles Darwin, and an ever-growing list of visionaries, strategists, and innovators attribute their success to surprisingly low work times accompanied by an abundance of restful activities like long walks.”
+
+“Ancient Romans and Greeks, Steve Jobs, Charles Darwin, and an ever-growing list of visionaries, strategists, and innovators attribute their success to surprisingly low work times accompanied by an abundance of restful activities like long walks.”
+
+The greats from the past didn’t work long hours, and going forward we won’t need to either. Walks are a perfect way to fill in the extra time, so when we are working we’re 10x more creative.
+
+One thing that makes my walks more interesting is imagining that someone from 1000s of years ago walked the same steps that I’m walking right now. It lights a bonfire underneath my imagination and helps me come alive. Try it.
+
+To unlock your creative superpower make sure to throw your headphones in a lake and walk in silence.
+
+I’m not saying going for a walk will solve all your problems, I’m just saying there’s no problem that’s going to be made worse by going for a walk – Ryan Holiday
+
+# Daydream in the middle of the day
+
+I once sat in the lobby of the bank I worked at daydreaming.
+
+The next day my boss told me that a “Head of” thought I was slacking off and not talking to enough customers. What that dumbass didn’t realize is, while daydreaming, I thought of a way to onboard more tech companies to our bank using a referral partner.
+
+This breakthrough would never have happened if I spent 12 hours a day only talking to customers and yelling “buy our bank accounts, sir, they’re the best. We’ll make you rich.”
+
+New mental model:
+
+There’s some sh*tty programming the corporate world infects you with – not being able to daydream is one example.
+
+Another way to daydream is to go watch traffic on a freeway for 3 hours. The movement of the cars becomes like a free form of meditation. When we daydream we activate our imagination and escape the hell of our to-do list.
+
+I find spending time with my 1 year old daughter helps too.
+
+We’re always imagining new games to play, and pretending regular household items are strange characters. The other day my daughter told me the broom was actually a horse that escaped from the enchanted forest. I’ll roll with that. Sounds plausible. The brush does kind of look like a horse’s mane if you think about it.
+
+What turns an adult back into a baby is a lack of imagination.
+
+(It’s the new pandem!c, by the way.)
+
+You’re gonna need that old rusty imagination again if you want to survive the AI wars and still make money in this new economy. Start turning brooms into wild horses.
+
+The creativity part doesn’t happen without the daydreaming. In my line of work, I need to daydream – Lin-Manuel (creator of the Hamilton Musical)
+
+# Write like Hemingway is your hero
+
+I shouldn’t admit this (and don’t tell my wife) but writing makes me h0rny.
+
+Not in a s*xual way, but in a way where writing forces my brain to come alive and join the dots between ideas.
+
+Writing is one of the best ways to be creative. Every artistic outlet can begin with writing.
+
+* A movie starts as writing.
+* A painting starts as words on a page.
+* A podcast starts with an email pitch to a guest.
+* A Youtube video starts as a written script (yes, Youtube is mostly all scripted).
+
+A movie starts as writing.
+
+A painting starts as words on a page.
+
+A podcast starts with an email pitch to a guest.
+
+A Youtube video starts as a written script (yes, Youtube is mostly all scripted).
+
+Your life will get better if you write every day. The next level is to write and publish on social media. This allows your ideas to become magnets for opportunities and humans that can elevate those ideas beyond your inner world.
+
+Groups gathering for the purpose of creativity are going to be crucial in the new economy. Let writing help you form the network needed.
+
+If you’re thinking without writing, you only think you’re thinking — Leslie Lamport
+
+# Blow your ear drums out with this type of music
+
+Modern music sucks.
+
+I used to be a DJ for 10 years. The rock of the 70s and 80s, or the pop of the 90s, or the house/dance music of the early 2000s is way better than the boring sh*t we have now from artists like Kendrik Lemar.
+
+They put these stupid filters on their voice that make them sound like robots. I prefer to just listen to a human voice without all the robot sounds.
+
+I’ve been thinking about music a lot lately.
+
+* Is it that we’ve written every chord progression or melody in existence already and that’s why modern music sucks?
+* Is the technology making the music sound worse?
+* Is music not as exciting anymore in a dopamine-fuelled world where you can get bigger rushes of adrenaline from video games or p*rn?
+
+Is it that we’ve written every chord progression or melody in existence already and that’s why modern music sucks?
+
+Is the technology making the music sound worse?
+
+Is music not as exciting anymore in a dopamine-fuelled world where you can get bigger rushes of adrenaline from video games or p*rn?
+
+I’ve concluded it’s none of that. Music sucks because creativity is lacking.
+
+We’re so busy working to cover the high cost of living that there’s not a lot of spare time to be creative.
+
+Between news, politics, and social media our brains are fried. We’re trained to think the world is worse than it is, so after a while we don’t have the energy or optimism to sit down at a piano and make a beautiful piece of music inspired by a love affair.
+
+We don’t even have as many love affairs anymore because going to a bar for a drink isn’t as convenient as texting a Tinder buddy (who soon, too, will be an AI bot). Why find love when you can make love to a s*x doll? Sounds odd, but that's where we’re heading.
+
+The quality of music is a reflection of the quality of human consciousness.
+
+We’re at rock bottom, especially right before the US election, but thankfully we’re on the cusp of good times and great classic hits again as creativity takes center stage once more.
+
+To make better music and be more creative we still need music, though. I recommend movie soundtracks. Turn on a bit of Hans Zimmer during the day and watch it change your mood. You’ll feel inspired to create.
+
+If you listen to songs on your phone sorted by when you added them, you are essentially going back in time. Songs trigger memories, wonderfully so! – Ankur Warikoo
+
+# Read and feel like you’re taking speed
+
+The gurus on Twitter/X say reading is procrastination in disguise.
+
+They say you need to have a goal in mind before you read any book, like everything is a f*cking self-help concert starring Tony Robbins on lead guitar, Jim Rohn on the drums, and Zig Ziglar rapping. Screw those illiterate morons on X.
+
+Reading is incredible.
+
+On the surface it’s unproductive. Below the surface it’s the source of better ideas and an expanded vocabulary.
+
+When your vocabulary expands you get better at explaining things. You become more articulate which makes you a better communicator. In a world of AI, you better hope your human communication skills are first-class.
+
+The best way to choose a book to read is to follow your curiosity.
+
+I double dare you to piss off the productivity gurus and read a fiction book. That’ll really get ‘em raging and seeing red! (haha evil Denning)
+
+To experience time travel, read. To achieve immortality, write – James Clear
+
+# Practice forced solitude while smoking a fat corn cob pipe
+
+Loners are the new elites.
+
+Being unproductive often means being alone. The need to be around others all the time is often why people work office jobs. They can’t stand not to have office friends. I don’t say this as an insult. Nope.
+
+I worked in banking for 10 years longer than I should because I was lonely.
+
+Seeing Greg the concierge or Amelia the cleaner was the highlight of my day. We’d talk smack about lots of stuff, even topics I had no clue about (like AFL football).
+
+Disappearing to a wood cabin in a forest and smoking a corn cob pipe used to be the dream. Then people laughed at it. In this creative boom, it’s going to become the goal again.
+
+Suburban life has downsides. Where I live it’s a chorus of dogs barking 24/7. I may be home alone as I write this, but it feels like I’ve got 101 Dalmatians sitting next to me.
+
+Without true solitude it’s hard to think deeply. It’s hard to uncover those big ideas we have stuck inside our s*xy brains. Start escaping to the woods now as a habit, so you can develop this skill in time for the creative boom.
+
+It takes 4-6 weeks of uncomfortable isolation to create a new vision for yourself, and your life – Zach Pogrob
+
+# Be quieter than normal
+
+The productivity age loves talking.
+
+Go into a productive workplace and you’ll see endless meetings full of people talking over the top of each other. People just keep talking because they want to feel like they’re #AddingValue or coming across as smart to their colleagues.
+
+True creative people are quieter than two ants having s*x.
+
+Record producer Rick Rubin is one such example. The dude has a long beard and is famous for being quiet in front of the world’s biggest musicians. Or take actor Keanu Reeves (who I’m convinced is Jesus reincarnated).
+
+The guy does these big-ass interviews and spends much of the time taking long pauses and looking up at the ceiling. I’ve found quiet people have smaller egos. This makes them more creative because our ego often stands in the way of our best ideas.
+
+Listen more than you talk. Try saying nothing for the next 24 hours.
+
+> Quiet people have the loudest minds – Stephen Hawking
+
+Quiet people have the loudest minds – Stephen Hawking
+
+# Final Thought
+
+The mind is your biggest asset. Without taking care of it, you’ll never be creative enough to thrive in the digital renaissance of the 2020s.
+
+Get used to feeling like you’re pissing your time down the toilet. Being unproductive is how you’ll increase your creativity, so you can outperform AI and carve a path in life that’ll lead you to personal freedom.
+
+Tell me which of these unproductive ideas you loved the most and why in the comments.
+
+---
+
+P.S. Are you writing online?
+
+If so, how's it going?
+
+Take my gut-check survey here.
+

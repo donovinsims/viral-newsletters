@@ -1,0 +1,22 @@
+{
+  "generated_at": "2025-12-30T22:16:16.931985",
+  "sources": {
+    "twitter": {
+      "files": 51,
+      "description": "Cleaned viral Twitter posts"
+    },
+    "linkedin": {
+      "files": 51,
+      "description": "Ruben Hassid LinkedIn posts"
+    },
+    "chris_williamson": {
+      "files": 98,
+      "description": "Chris Williamson newsletters"
+    },
+    "tim_denning": {
+      "files": 58,
+      "description": "Tim Denning Substack posts"
+    }
+  },
+  "total_files": 258
+}

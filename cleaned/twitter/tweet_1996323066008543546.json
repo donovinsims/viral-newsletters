@@ -1,0 +1,16 @@
+{
+  "id": "1996323066008543546",
+  "source": "twitter",
+  "author": "EXM7777",
+  "date": "2025-12-03",
+  "url": "https://x.com/EXM7777/status/1996323066008543546",
+  "text": "how to duplicate the style of any image you find online\n\nhere's my 3-step style-cloning system:\n\nstep 1 : copy+paste your image inside Gemini 3.0 (it has vision)\nstep 2 : use this prompt : \"extract this visual style as JSON structured data: colors, typography, composition, effects...\"\nstep 3 : save this context file and inject it whenever you want to recreate this style\n\nthis is stupidly simple but works well for most",
+  "word_count": 73,
+  "metrics": {
+    "likes": 1490,
+    "retweets": 142,
+    "replies": 25,
+    "views": 346828,
+    "engagement_rate": 0.48
+  }
+}
