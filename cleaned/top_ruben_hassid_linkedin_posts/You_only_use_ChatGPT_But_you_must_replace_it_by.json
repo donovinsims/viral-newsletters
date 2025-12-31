@@ -1,0 +1,21 @@
+{
+  "id": "you_only_use_chatgpt_but_you_must_replace_it_by",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-06-20",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "You only use ChatGPT. But you must replace it by:\n\n1. Perplexity to search. Copy this prompt:\n\nYou must turn on \"Research\". 3 free queries per day.\n\nPrompt template: \"Analyze [topic] in [timeframe], delivering data-driven insights and quantitative forecasts. Cover [key aspects], compare [variants], and provide actionable recommendations. Structure output with an executive summary and clear sections, citing all sources.\"\n\nFor example: \"Analyze job automation and AI trends in 2025, providing data-driven insights and quantitative forecasts for 2026–27. Include industry-specific impacts, workforce adaptation strategies, and actionable reskilling recommendations presented as an executive summary with cited sources.\"\n\n___\n\n2. Gamma to make slides (like a Powerpoint).\n\nPrompt template: \"[SLIDE-COUNT] slides on [TOPIC] for [AUDIENCE]; purpose: [GOAL]; style: [TONE], [VISUAL STYLE]; include: [KEY SECTIONS or DATA]\"\n\nFor example: \"10 slides on “AI in Healthcare” for clinicians; purpose: inform; style: formal, minimalist; include: - Overview of AI trends - Case studies (Hospital X) - Adoption statistics - Future outlook\"\n\n___\n\n3. EasyGen to write Linkedin posts. \n\nPrompts on EasyGen are \"Topics\".\n\nTopic template: \"I want to write about [topic] because [reasons]. My controversial take on it is that [take] because people must [advice] and not [avoid this].\"\n\nFor example: \"I want to write about sales automation because the average account executive still spends most of the week on data entry instead of talking to customers, and modern buyers expect lightning-fast, ultra-relevant engagement. My controversial take on it is that automating every email touch is actually stalling pipeline growth because people must use automation to eliminate grunt work and create space for genuine discovery conversations and not treat it as a shortcut to send more impersonal spam.\"\n\n___\n\n4. How-to-ai.guide to master AI (without coding).\n\nThat's my weekly newsletter to master AI.\n\nAnd without ever coding. I promise.\n\n___\n\n5. Google Veo-3 to generate videos.\n\nPrompt template: \"[Describe the scene and who's in it]\n\n[What happens - use \"then\" for multiple actions]\n\n[If someone talks]: They say \"[keep dialogue under 8 seconds]\"\n\n[Sounds]: [background music/sound effects you want]\n\nStyle: [cinematic/animated/realistic/etc.]\"\n\nFor example: \"A woman in a blue sweater sits at a coffee shop, looks at camera and says \"I just discovered the best coffee in town!\" Cheerful background cafe sounds.\"",
+  "word_count": 366,
+  "metrics": {
+    "total_reactions": 3124,
+    "likes": 2645,
+    "love": 116,
+    "insight": 302,
+    "celebrate": 42,
+    "support": 11,
+    "funny": 8,
+    "comments": 493,
+    "reposts": 338
+  },
+  "hook_type": "challenge"
+}

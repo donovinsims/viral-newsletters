@@ -1,0 +1,21 @@
+{
+  "id": "breaking_the_new_chatgpt_record_is_live",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-06-19",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "BREAKING: The new ChatGPT ‘Record’ is live.\n\nChatGPT now takes your meeting notes:\n\n1. Click “Record” in the Mac desktop app (Pro, Team, Enterprise, Edu).\n\n2. Talk naturally while ChatGPT live-transcribes (you can pause/resume).\n\n3. Press “Send” to get an instant canvas packed with a summary, time-stamped bullet points, action items and open questions.\n\nIt works locally. No bot has to “join” your call.\n\nAudio files vaporise right after Whisper finishes; transcripts inherit your workspace retention rules.\n\nEach session tops out at 120 minutes, and admins can flip the whole feature off.\n\nIt probably killed 1,000 + SaaS in one go:\n\n☑ Action-item bots.\n☑ Note-taking assistants.\n☑ Meeting-transcription apps.\n☑ Dedicated call-recording tools.\n\nWhy Record is different:\n\n* Records & summarises on-device, so nothing joins the Zoom/Meet link.\n\n* Reference record history lets you ask follow-up questions across meetings (“What did we decide on Monday?”).\n\n* Meets enterprise privacy defaults; Team/Enterprise/Edu data is *excluded* from model training by default.\n\nIn the last 30 days OpenAI has…\n\n1. Rolled out ChatGPT Record to Pro, Enterprise and Edu users worldwide (18 Jun 2025).\n\n2. Launched o3-pro, its most advanced reasoning model, for Pro users and the API (10 Jun 2025).\n\n3. Expanded long-term Memory to the Free tier, giving all users persistent context (3 Jun 2025).\n\n4. Shipped smarter Projects and deep-research connectors—including GitHub, OneDrive and SharePoint—to supercharge workflows (mid-Jun 2025).\n\n5. Published business-plan updates with Record mode and flexible connector pricing (4 Jun 2025).\n\n6. Released a Windows desktop-app update so PC users can run ChatGPT offline (5 Jun 2025).\n\n7. Secured a $200 million U.S. Defense contract to develop secure AI tooling (18 Jun 2025).\n\n8. Announced ChatGPT-5 for this summer (OpenAI Podcast, Sam Altman announced it).\n\nChatGPT’s growth is wild.",
+  "word_count": 292,
+  "metrics": {
+    "total_reactions": 2359,
+    "likes": 1879,
+    "love": 125,
+    "insight": 271,
+    "celebrate": 63,
+    "support": 18,
+    "funny": 3,
+    "comments": 535,
+    "reposts": 182
+  },
+  "hook_type": "breaking_news"
+}

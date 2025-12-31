@@ -1,0 +1,21 @@
+{
+  "id": "dont_use_chatgpt_to_summarize_youtube_videos",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-07-17",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "Don't use ChatGPT to summarize YouTube videos.\n\nPrompt Perplexity instead (for free):\n\n☑ Go to perplexity .ai → It's like Google + ChatGPT.\n☑ Copy the YouTube video link you want to analyze.\n☑ Make sure you use \"Perplexity Research\" model.\n☑ Then copy & paste my following prompt:\n\nPrompt: \"Extract all of the context from this YouTube video: [YOUR YOUTUBE VIDEO LINK].\n\n1 - Extract the YouTube video transcript, entirely.\n2 - Extract the YouTube video outline, entirely.\n3 - Map out key ideas shared on the YouTube video.\n4 - What's new & specific to this YouTube video?\n5 - Fill the gaps with the author's blogs/interviews.\"",
+  "word_count": 109,
+  "metrics": {
+    "total_reactions": 1653,
+    "likes": 1408,
+    "love": 73,
+    "insight": 143,
+    "celebrate": 20,
+    "support": 7,
+    "funny": 2,
+    "comments": 426,
+    "reposts": 100
+  },
+  "hook_type": "challenge"
+}
