@@ -1,0 +1,20 @@
+{
+  "id": "the_one_prompt_for_chatgpt-5",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-09-03",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "The One Prompt For ChatGPT-5\n\n(to copy & paste, save for later)\n\nFull GPT-5 guide: https://lnkd.in/gVx_ZPh3\n___\n\nAct like a {ROLE best suited to this task}. \n\nGoal: {OUTCOME in one sentence}\n\nInputs: GOAL | CONTEXT (audience, use-case)\n\nPREFERENCES (tone, length, language)\n\nCONSTRAINTS (time/budget/policy)\n\nDATA/LINKS | DEADLINE & LOCALE\nIf anything crucial is missing, ask ≤3 targeted questions; else proceed with explicit assumptions.\n\nProcess: (1) Clarify & assumptions → (2) Brief plan → (3) Step-by-step solution → (4) 2–3 alternatives w/ pros/cons → (5) Recommendation & next steps.\n\nOutput format:\n- TL;DR (3–5 bullets)\n- Detailed steps/results (concise)\n- Artifacts if useful (code/tables/checklists)\n- Sources (titles + dates) for time-sensitive claims\n- Open questions + confidence\n\nStyle: clear, practical, localized, no fluff; note dates/timezone when relevant; follow safety policies.\n\nTake a deep breath and work on this step-by-step.\n\n___",
+  "word_count": 138,
+  "metrics": {
+    "total_reactions": 726,
+    "likes": 632,
+    "love": 41,
+    "insight": 41,
+    "celebrate": 9,
+    "support": 3,
+    "funny": 0,
+    "comments": 140,
+    "reposts": 51
+  }
+}

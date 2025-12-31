@@ -1,0 +1,16 @@
+{
+  "id": "i_use_one_tool_that_gets_me_5x_better_results_from_veo_31_an",
+  "source": "twitter",
+  "author": "beechinour",
+  "date": "2025-11-06",
+  "url": "https://x.com/beechinour/status/1986451808219504736",
+  "text": "i use one tool that gets me 5x better results from veo 3.1 and hailuo 2.3...\n\nif you're not effectively prompting camera motion, you're using these models at 50% capacity\n\ncasual direction like \"zoom in\" or \"circle around\" doesn't work, video models need actual cinematography language:\n- [truck left, pan right, tracking shot]\n- [push in, pedestal up]\n- [dolly back, tilt down]\n\nso i built a claude skill that translates for you\n\nyou describe what you want -> it converts to proper film terminology -> AI executes it way better\n\nthis was initially made for my team, but i'm sharing it with you guys...\n\nreply \"angles\" + RT and i'll send it over (must be following so i can dm)",
+  "word_count": 121,
+  "metrics": {
+    "likes": 1083,
+    "retweets": 476,
+    "replies": 731,
+    "views": 105629,
+    "engagement_rate": 2.17
+  }
+}

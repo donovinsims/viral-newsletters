@@ -1,0 +1,20 @@
+{
+  "id": "breaking_apple_just_proved_ai_reasoning_models_like_claude_d",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-06-12",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "BREAKING: Apple just proved AI \"reasoning\" models like Claude, DeepSeek-R1, and o3-mini don't actually reason at all.\n\nThey just memorize patterns really well.\n\nHere's what Apple discovered:\n\n(hint: we're not as close to AGI as the hype suggests)\n\nInstead of using the same old math tests that AI companies love to brag about, Apple created fresh puzzle games.\n\nThey tested Claude Thinking, DeepSeek-R1, and o3-mini on problems these models had never seen before.\n\nThe result ↓\n\nAll \"reasoning\" models hit a complexity wall where they completely collapse to 0% accuracy.\n\nNo matter how much computing power you give them, they can't solve harder problems.\n\nAs problems got harder, these \"thinking\" models actually started thinking less.\n\nThey used fewer tokens and gave up faster, despite having unlimited budget.\n\nApple researchers even tried giving the models the exact solution algorithm.\n\nLike handing someone step-by-step instructions to bake a cake.\n\nThe models still failed at the same complexity points.\n\nThey can't even follow directions consistently.\n\nThe research revealed three regimes:\n\n• Low complexity: Regular models actually win\n• Medium complexity: \"Thinking\" models show some advantage\n• High complexity: Everything breaks down completely\n\nMost problems fall into that third category.\n\nApple discovered that these models are not reasoning at all, but instead doing sophisticated pattern matching that works great until patterns become too complex.\n\nThen they fall apart like a house of cards.\n\nIf these models were truly \"reasoning,\" they should get better with more compute and clearer instructions.\n\nInstead, they hit hard walls and start giving up.\n\nIs that intelligence or memorization hitting its limits?\n\nThis research suggests we're not as close to AGI as the hype suggests.\n\nCurrent \"reasoning\" breakthroughs may be hitting fundamental walls that can't be solved by just adding more data or compute.\n\nModels could handle 100+ moves in Tower of Hanoi puzzles but failed after just 4 moves in River Crossing puzzles.\n\nThis suggests they memorized Tower of Hanoi solutions during training but can't actually reason.\n\nWhile AI companies celebrate their models \"thinking,\" Apple basically said \"Everyone's celebrating fake reasoning.\"\n\nThe industry is chasing metrics that don't measure actual intelligence.\n\nApple's researchers used controllable puzzle environments specifically because:\n\n• They avoid data contamination\n• They require pure logical reasoning\n• They can scale complexity precisely\n• They reveal where models actually break\n\nSmart experimental design if you ask me.\n\nWhat do you think?\n\nIs Apple just \"coping\" because they've been outpaced in AI developments over the past two years?\n\nOr is Apple correct?\n\nComment below and I'll respond to all.\n\nIf you found this thread valuable:\n\nFollow me Ruben Hassid for more threads around what's happening around AI and it's implications.",
+  "word_count": 443,
+  "metrics": {
+    "total_reactions": 796,
+    "likes": 585,
+    "love": 35,
+    "insight": 146,
+    "celebrate": 13,
+    "support": 13,
+    "funny": 4,
+    "comments": 275,
+    "reposts": 46
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "how_to_get_instantly_better_chatgpt_answers",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-08-29",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "How to get (instantly) better ChatGPT answers:\n\n1. Don't ask for results. Ask for questions.\n\n☑ “Before you answer, ask ≤3 clarifying questions.”\n☑ If info is missing, pause & ask, state assumptions.\n☑ Use \"Deep Research\" to get questions.\n\n2. Use ChatGPT to make ChatGPT prompts.\n\n☑ ChatGPT's Prompt maker: https://lnkd.in/ePWMRiKn \n☑ Write your bad prompt, get a better prompt.\n☑ Make sure to use the \"Thinking\" model.\n\n3. Give a brief, not a wish.\n\n☑ Role + audience + goal + constraints.\n☑ 1–2 gold examples + 1 anti-example.\n☑ Expectations: format, length, tone, iteration.\n\n4. Iterate in small loops.\n\n☑ Step 1: options/angles → you pick.\n☑ Step 2: draft → you critique → revise.\n☑ Step 3: final pass with acceptance tests.\n\n5. Define “done.”\n\n☑ List 3 success criteria (measurable).\n☑ List 3 must-nots (claims, buzzwords, clichés).\n☑ “Stop and ask if criteria can’t be met.”\n\n6. Lock the output format.\n\n☑ Number sections; no preamble or fluff.\n☑ Provide a mini template or JSON schema.\n☑ One screen max (or specify word/bullet limits).\n\n7. Force trade-offs.\n\n☑ “Propose 3 approaches; rank against [metric].”\n☑ “Pick the winner and justify in 2 lines.”\n☑ “Proceed with the winner only.”\n\n8. Ground in facts.\n\n☑ “Use 2–3 credible sources; cite inline.”\n☑ Prefer primary docs over summaries.\n☑ Flag unknowns explicitly; don’t invent.\n\n9. Control style tightly.\n\n☑ Give a style block (voice, reading grade, rhythm).\n☑ Include 3 must-use phrases + a banned list.\n☑ “Match style exactly; if unsure, ask first.”\n\n10. Feed your own data.\n\n☑ “Prefer these patterns; adapt to context.”\n☑ Paste 3 samples of your best work.\n☑ Label what to mimic/avoid.",
+  "word_count": 282,
+  "metrics": {
+    "total_reactions": 567,
+    "likes": 469,
+    "love": 31,
+    "insight": 52,
+    "celebrate": 7,
+    "support": 8,
+    "funny": 0,
+    "comments": 143,
+    "reposts": 58
+  }
+}

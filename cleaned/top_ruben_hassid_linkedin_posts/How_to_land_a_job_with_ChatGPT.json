@@ -1,0 +1,20 @@
+{
+  "id": "how_to_land_a_job_with_chatgpt",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-08-23",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "How to land a job with ChatGPT:\n\n𝗖𝗼𝗽𝘆 𝗽𝗮𝘀𝘁𝗲 𝗺𝘆 𝗽𝗿𝗼𝗺𝗽𝘁:\n\n✦ Make sure first to use GPT-5 Thinking.\n✦ Upload your Linkedin profile PDF to ChatGPT.\n✦ Go to Linkedin > Me > Resources > Save to PDF.\n✦ I made this prompt with my GPT \"Prompt Maker\".\n✦ Click here for a guide: https://lnkd.in/edwXnKRa\n\n____\n\nAct like a senior CV writer, former in-house recruiter, and ATS optimization specialist.\n\nYour goal is to craft the best CV for me to get a job on Linkedin.\n\nOBJECTIVE\n\nProduce a targeted, ATS-safe CV tailored to the role below using the user’s LinkedIn profile as the primary source. If a CV PDF is uploaded in this chat, parse it and prefer its facts (titles, dates, credentials). Do not ask for or require a CV placeholder—the user will upload the PDF.\n\nINPUTS (paste directly inside the angle brackets)\n\nLINKEDIN_PROFILE = <<PASTE THE USER’S LINKEDIN PROFILE TEXT HERE>>\n\nJOB_DESCRIPTION = <<PASTE THE TARGET JOB DESCRIPTION HERE>>\n\nCONSTRAINTS\n\n- Single-column, ATS-friendly text (no tables/columns/images/special symbols).\n- Truthful only; no fabrication. If a fact is unknown, insert [MISSING: …] or metric prompts like [add %/$/#].\n- Mirror region/spelling and CV vs résumé conventions implied by JOB_DESCRIPTION.\n- Omit sensitive personal details not needed by ATS.\n\nSTEP-BY-STEP\n\n1) Parse inputs: extract headline, summary, roles (company/title/dates/location/bullets), projects, skills, education, certifications, languages. If a CV PDF exists, reconcile conflicts by preferring the PDF for facts; flag discrepancies in notes.\n\n2) Targeting: derive 12–20 must-have keywords/phrases from JOB_DESCRIPTION; map each to evidence from the profile (role/project/cert). Mark true gaps as [MISSING: …].\n\n3) Write the CV:\n  - Professional Summary (3–4 lines) aligned to JOB_DESCRIPTION, naturally weaving top keywords.\n  - Core Skills/Technologies (clustered categories).\n  - Experience (last ~10 years in detail): 3–5 bullets per role using Action → Context → Metric → Outcome; present tense for current role, past tense otherwise. Add metric prompts if needed.\n  - Optional Projects (only if tightly aligned), then Education and Certifications relevant to JOB_DESCRIPTION.\n\n4) Optimize & check: tense consistency, date continuity, keyword coverage, no duplicates/fluff, consistent number formatting, region-appropriate spelling, minimal links.\n\nOUTPUT (use exactly these headings)\n---\nFINAL CV — ATS TEXT\n<render the ATS-safe CV here>\n\n---\nTAILORING NOTES\n<list covered keywords, [MISSING: …] gaps, discrepancies to confirm, and metric prompts to add>\n\nTake a deep breath and work on this problem step-by-step.",
+  "word_count": 391,
+  "metrics": {
+    "total_reactions": 769,
+    "likes": 660,
+    "love": 33,
+    "insight": 52,
+    "celebrate": 14,
+    "support": 8,
+    "funny": 2,
+    "comments": 136,
+    "reposts": 58
+  }
+}

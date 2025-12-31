@@ -1,0 +1,20 @@
+{
+  "id": "shes_not_real",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-09-12",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "She's not real.\n\nAnd this is her prompt:\n\n☑ First, make sure to use gemini.google.com (free).\n☑ Access my guide at https://lnkd.in/d7xW8Qze.\n☑ If you don't believe me, here's the proof:\n\n→ https://ibb.co/rRdcJv63\n\nNow for the prompt to copy and paste:\n\n_____\n\n\"scene\": \"casual 2010s phone selfie; unintentional snapshot\", \n\"subject\": { \n\"type\": \"adult woman (idol vibe)\", \n\"age_range\": \"20s\", \n\"hair\": \"straight or simple ponytail\", \n\"makeup\": \"glossy lips, eyeliner highlight\", \n\"jewelry\": \"small hoops, thin chain, bracelets\" \n}, \n\"wardrobe\": { \n\"top\": \"basic tee or camisole\", \n\"bottom\": \"denim shorts or mini skirt\", \n\"footwear\": \"sneakers or ankle boots\", \n\"notes\": \"everyday outfit, not styled\" \n}, \n\"pose\": { \n\"angle\": \"mirror selfie FULL BODY\", \n\"body\": \"standing, weight on one hip\", \n\"hands\": \"phone in one hand; other relaxed or in pocket\", \n\"framing\": \"HEAD-TO-SHOES, feet visible, not cropped\" \n}, \n\"camera\": { \n\"device\": \"iPhone 4/5 era\", \n\"flash\": \"on (harsh LED) with mirror glare\", \n\"orientation\": \"vertical\", \n\"aspect_ratio\": \"4:3\", \n\"distance\": \"2–3 m from mirror to capture full body\", \n\"focus\": \"soft; slight hand-shake blur\" \n}, \n\"look\": { \n\"texture\": \"grainy digital noise; mild JPEG artifacts\", \n\"sharpness\": \"low; soft focus\", \n\"color\": \"cool indoor white balance; blown highlights from flash\", \n\"effects\": \"subtle vignette; cheap filter vibe\" \n}, \n\"background\": { \n\"environment\": \"bedroom or bathroom; clutter allowed; visible floor\", \n\"props\": \"framed mirror; phone visible\" \n}, \n\"style\": { \n\"genre\": \"lo-fi Y2K/2010s snapshot\", \n\"authenticity\": \"imperfect candid moment\" \n}, \n\"ban\": [ \n\"studio lighting\", \n\"DSLR/bokeh look\", \n\"cinematic grading\", \n\"spotless staged room\", \n\"logos/brand text\", \n\"nsfw\", \n\"cropped feet\" \n], \n\"output\": { \"count\": 1, \"size\": \"1200x1600\", \"safety\": \"strict\" }, \n\"variants\": [ \n{ \"name\": \"timer_fullbody\", \"angle\": \"rear camera on dresser, timer; subject centered, both hands visible\" } \n]\n\n___\n\nI think the Internet was we know it is over.",
+  "word_count": 272,
+  "metrics": {
+    "total_reactions": 1648,
+    "likes": 1226,
+    "love": 79,
+    "insight": 303,
+    "celebrate": 21,
+    "support": 7,
+    "funny": 12,
+    "comments": 459,
+    "reposts": 117
+  }
+}

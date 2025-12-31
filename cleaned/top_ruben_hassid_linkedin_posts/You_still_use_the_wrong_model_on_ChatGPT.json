@@ -1,0 +1,20 @@
+{
+  "id": "you_still_use_the_wrong_model_on_chatgpt",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-07-29",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "You still use the wrong model on ChatGPT.\n\nSave this cheat sheet to never struggle again:\n\n☑ GPT-4o: quick answers, no reasoning.\n\n☑ o3: best reasoning model, smartest, takes longer.\n\n☑ Deep Research: the longest, but incredibly detailed.\n\nA step-by-step guide per model:\n\n1. GPT-4o: Prompt it like a Google search.\n\n→ No need for much context.\n\n→ Ask a question directly. Use voice mode if needed.\n\n→ Prompt example: \"Who's the CEO of Astronomer?\"\n\n2. o3: Prompt it like an intern who must do something.\n\n→ As much context as possible.\n\n→ Start with the role, then ask, then context + example.\n\n→ Prompt example:\n\n\"Act like a [expertise]. I want you to [ask], as [format]. Here's an example of past [ask] I've done perfectly: [past example, this is your context].\"\n\n3. Deep Research: Prompt it with a broad question.\n\n→ It will ask you follow-up questions. Answer them.\n\n→ You can connect sources (like PDFs/URLs).\n\n→ Prompt example:\n\n\"Pros and Cons of having AI replace everyone's job. I only want the AI scientists/researchers' answers.\"\n\n---\n\nKnowing which ChatGPT model to use is step one.\n\nSetting up ChatGPT properly is step two.\n\nSo I wrote a blog on how to set up your ChatGPT in 22 minutes. Go to: https://lnkd.in/dA3FGZjc",
+  "word_count": 211,
+  "metrics": {
+    "total_reactions": 653,
+    "likes": 544,
+    "love": 39,
+    "insight": 55,
+    "celebrate": 10,
+    "support": 4,
+    "funny": 1,
+    "comments": 165,
+    "reposts": 36
+  }
+}

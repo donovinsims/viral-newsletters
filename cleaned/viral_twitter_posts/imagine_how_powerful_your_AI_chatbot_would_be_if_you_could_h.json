@@ -1,0 +1,16 @@
+{
+  "id": "imagine_how_powerful_your_ai_chatbot_would_be_if_you_could_h",
+  "source": "twitter",
+  "author": "tyler_agg",
+  "date": "2025-09-09",
+  "url": "https://x.com/tyler_agg/status/1965477139454874023",
+  "text": "imagine how powerful your AI chatbot would be if you could hook it up to your own knowledge base?\n\nI just made a full walkthrough on how to build your own AI chatbot powered by your custom knowledge base\n\ninside, I cover:\n– how to gather and clean your docs + conversations\n– chunking + embeddings (so your AI actually remembers details)\n– setting up a vector database\n– connecting RAG so the bot pulls the right info when asked\n– deployment: getting it live for real users\n\nreply “RAG” and I’ll DM you the walkthrough + code (must be following)",
+  "word_count": 101,
+  "metrics": {
+    "likes": 190,
+    "retweets": 23,
+    "replies": 158,
+    "views": 16548,
+    "engagement_rate": 2.24
+  }
+}

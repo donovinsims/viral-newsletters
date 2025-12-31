@@ -1,0 +1,20 @@
+{
+  "id": "116m_people_complain_on_reddit_every_single_day",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-12-27",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "116M people complain on Reddit (every single day).\n\nAnd that's how I find viral content ideas before you:\n\n1. Go to grok.\n2. Copy paste this prompt: \n\nPrompt: \"Find active subreddits where [YOUR TARGET AUDIENCE] discusses their problems. Include member count, activity level, and what problems people discuss there. Focus on communities with real conversations, not just meme dumps.\"\n\n3. Pick 3-5 subreddits that match your audience.\n4. Go to Reddit and enter the picked subreddit.\n5. Search these exact phrases (keep the quotes):\n\n\"I can't stand\"\n\"I'm struggling with\"\n\"Biggest struggle\"\n\"Hardest part\"\n\"How can I\"\n\"How do you\"\n\"Can someone help\"\n\"Help me\"\n\"Tips\"\n\"Suggestions\"\n\"Any advice\"\n\n6. Filter by: Top + Past Month.\n7. Find posts with 50+ upvotes and 20+ comments.\n8. Copy post title + description + top 3-5 comments.\n9. Go to Claude.\n10. Copy & paste this prompt (+ copied Reddit text):\n11. Use this prompt guide: https://lnkd.in/e87Kdy5Z\n\nPrompt: \"You're a content strategist who turns audience problems into viral content ideas.\n\nHere's a real problem from Reddit:\n\nPOST TITLE: [paste title]\n\nPOST DESCRIPTION: [paste description]\n\nTOP COMMENTS:\n[paste 3-5 comments]\n\nGenerate 15 content ideas from this:\n\n1. 5 \"How to\" articles (tactical, step-by-step)\n2. 5 listicles (tools, mistakes, tips, examples)\n3. 3 contrarian takes (challenge conventional advice)\n4. 2 frameworks (systematic approaches with memorable names)\n\nFor each idea give me:\n- Headline (make it specific, not generic)\n- Hook (first line that pulls readers in)\n- Angle (what makes this different from existing content)\n\nMake headlines scroll-stopping. No bland \"Ultimate Guide\" garbage.\"\n\n12. Take your top 3 ideas and ask Grok:\n\nPrompt: \"Has this topic been covered extensively? What angles are missing from existing coverage about [YOUR HEADLINE]?\"\n\nPeople already told you what to write. Now go find it.",
+  "word_count": 296,
+  "metrics": {
+    "total_reactions": 1054,
+    "likes": 838,
+    "love": 56,
+    "insight": 132,
+    "celebrate": 16,
+    "support": 8,
+    "funny": 4,
+    "comments": 228,
+    "reposts": 76
+  }
+}

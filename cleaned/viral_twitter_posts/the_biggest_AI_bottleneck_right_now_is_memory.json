@@ -1,0 +1,16 @@
+{
+  "id": "the_biggest_ai_bottleneck_right_now_is_memory",
+  "source": "twitter",
+  "author": "EXM7777",
+  "date": "2025-10-28",
+  "url": "https://x.com/EXM7777/status/1983276844440002572",
+  "text": "the biggest AI bottleneck right now is memory...\n\nthink about it:\n> you open your LLM\n> you have to re-explain your context every time\n> or spend 30 minutes setting up a project\n> or hope the built-in memory actually works (it doesn't)\n\nand this is the current state of the market...\n\n- chatgpt has a terrible approach\n- claude is better but slow\n- gemini might have a good shot at it, waiting to see if they crack this\n\nthe best workaround right now are memory MCPs with connected knowledge bases\n\nbut it's still external... still manual... still friction\n\nthe real breakthrough comes when:\n\ni open my LLM, i prompt naturally and it just knows my context without me thinking about it\n\nthat's when it'll feel like we actually have next-level intelligence",
+  "word_count": 134,
+  "metrics": {
+    "likes": 283,
+    "retweets": 18,
+    "replies": 60,
+    "views": 22502,
+    "engagement_rate": 1.6
+  }
+}

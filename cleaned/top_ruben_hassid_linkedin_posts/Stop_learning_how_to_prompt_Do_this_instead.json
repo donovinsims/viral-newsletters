@@ -1,0 +1,20 @@
+{
+  "id": "stop_learning_how_to_prompt_do_this_instead",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-06-24",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "Stop learning how to prompt. Do this instead.\n\n☑ Copy & paste this specific prompt:\n\n(You must turn on \"Deep Research\"!!)\n\nPrompt: \"I want to learn the best way to [goal / decision you need] for [product, project, or situation]. Before conducting your deep research, ask me exactly 10 short clarifying questions about my aims, limits, audience, timeline, and any key facts you need. Wait for my answers.”\n\n☑ Now answer ChatGPT's questions to prompt it.\n\nBecause is what most of your prompts lack:\n\n→ Direction.\n→ Specificity in research.\n→ As much context as possible.\n\nOnce the research is done, continue normally.\n\n☑ Here are good follow-up prompts:\n\n→ Prompt to get specific info: “Give me the most current facts on [sub-topic] inside [topic]. List at least 3 sources, link each. Show facts as short bullet points. After the list, add one line: “Main takeaway: …”\n\n→ Prompt to get a counterargument: “Show the best reasons against the main claim in [topic]. Give 5 solid points, one sentence each. Under each point, add the evidence or expert that backs it (with link). End with: “Why these points matter: …” (max 3 lines)”\n\n→ Prompt to get an actionable step-by-step plan: “Change these key ideas on [topic] into a clear plan for a beginner. Use a table with columns: “Week”, “Action”, “Goal-post”. Cover Week 1–12. Keep each action ≤ 20 words. After the table, add: “How to track progress: …”\n\n→ Prompt to turn it into a simple table: “Put the core points on [topic] into a two-column table. Column A: “Key idea” (≤ 15 words). Column B: “Proof / Source link”. List at least 7 rows. No other text.”\n\n→ Prompt to find ressources/courses about the topic: “List good ways to learn more about [topic]. Give 5–7 items across books, papers, free online courses. For each, add: link, cost (free / paid), and one-line value note. Sort by beginner → advanced.”",
+  "word_count": 322,
+  "metrics": {
+    "total_reactions": 705,
+    "likes": 603,
+    "love": 37,
+    "insight": 52,
+    "celebrate": 8,
+    "support": 5,
+    "funny": 0,
+    "comments": 180,
+    "reposts": 56
+  }
+}

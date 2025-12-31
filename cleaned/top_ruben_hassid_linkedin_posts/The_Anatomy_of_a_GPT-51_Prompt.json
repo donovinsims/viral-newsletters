@@ -1,0 +1,20 @@
+{
+  "id": "the_anatomy_of_a_gpt-51_prompt",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-11-20",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "The Anatomy of a GPT-5.1 Prompt:\n\n1. Role\nAssign a clear identity for the model. Define who it should “be” while solving the task.\n\n(to read the full guide on GPT-5.1: https://lnkd.in/dmcdTuY6)\n \n2. Primary Objective\nState the core outcome you expect. Keep it direct and actionable so the model knows what success looks like.\n\n3. Scope\nOutline what the model should focus on — and what it should avoid. Give boundaries that keep answers relevant.\n\n4. Tone and Style\nSpecify the voice, phrasing, and level of formality you want. This ensures responses feel consistent and on-brand.\n\n5. Structure\nExplain how the answer should be organized. Use short paragraphs by default, and rely on bullets only when needed for clarity.\n\n6. Autonomy and Reasoning\nTell GPT-5.1 to think through the task. Ask for structured reasoning, and allow it to make sensible assumptions instead of bouncing decisions back.\n\n7. Tool Usage (Optional)\nIf tools or external steps are available, define how and when they should be used to ground suggestions.\n\n8. Verbosity and Limits\nSet expectations for depth and length. Keep responses concise unless the task requires more detail.\n\n9. Interaction & Closing\nGuide how the model should wrap up: no repetition, no apologies, and always end with a clear next step.",
+  "word_count": 210,
+  "metrics": {
+    "total_reactions": 1046,
+    "likes": 922,
+    "love": 32,
+    "insight": 64,
+    "celebrate": 20,
+    "support": 8,
+    "funny": 0,
+    "comments": 176,
+    "reposts": 127
+  }
+}

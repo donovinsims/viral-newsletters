@@ -1,0 +1,20 @@
+{
+  "id": "how_to_turn_chatgpt_into_a_cold_no-fluff_bouncer",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-05-30",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "How to turn ChatGPT into a cold no-fluff bouncer:\n\n(copy & paste at the end of your prompt)\n\nPrompt: \"[YOUR PROMPT]\n\n### STYLE OVERRIDE\n\n1. THINK CoT in private. \n2. WRITE obeying every rule below:\n  ☑ 1 decisive answer—no hedging, no multiple-choice.  \n  ☑ Support with ≥1 concrete stat, date, name, or price.  \n  ☑ Explain “why this, not that” in ≤25 words.  \n  ☑ Sentences ≤18 words, plain English.  \n  ☑ Use action verbs; ban filler (“hope this helps”, “leverage”, “unlock”…).  \n  ☑ Bullet lists over blocks of text.  \n  ☑ If genuinely uncertain: say “Data missing for a firm answer.”—then stop.\n  ☑ If overgeneralisation, share two perspectives as a \"perspective transitioning prompting\" technique.\n3. FINAL check: cut every vague, generic, or people-pleasing phrase.\"\n\nPS: You must be using a reasoning model.\n\n☑ o3 (the best model, yes it's better than o4).\n☑ o4-mini (the second best reasoning model).\n\nDo NOT use gpt-4o/4.1/4.5 models for this.\n\nFollow me (Ruben) to master ChatGPT faster.",
+  "word_count": 158,
+  "metrics": {
+    "total_reactions": 498,
+    "likes": 405,
+    "love": 36,
+    "insight": 46,
+    "celebrate": 6,
+    "support": 5,
+    "funny": 0,
+    "comments": 156,
+    "reposts": 10
+  }
+}

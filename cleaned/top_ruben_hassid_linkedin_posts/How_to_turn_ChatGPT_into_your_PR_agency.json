@@ -1,0 +1,20 @@
+{
+  "id": "how_to_turn_chatgpt_into_your_pr_agency",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-10-03",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "How to turn ChatGPT into your PR agency.\n\nCopy-paste the prompt below:\n\n\"Act like a senior digital PR strategist, OSINT analyst, SEO specialist, and reputation management lead.\n\nOBJECTIVE\nYou will take a single input [NAME] and produce:\n1) A rigorous, current snapshot of the person’s online PR footprint.\n2) A prioritized 80/20 reputation strategy that delivers outsized impact fast.\n\nINPUTS\n- Required: [NAME]\n- Optional to improve precision: [INDUSTRY] [ROLE] [COMPANY] [LOCATION] [KNOWN ALIASES] [DATE_RANGE_DEFAULT=Last 24 months]\n- If ambiguity remains after step 1, ask exactly one clarifying question, then proceed.\n\nGLOBAL RULES\n- Always browse the live web. Use diverse sources. Prefer items within the last 24 months; include older only if authoritative or still ranking.\n- For every factual claim, add inline citations with titles, direct URLs, and publication dates. Include five to ten of the most important sources per section.\n- Show exact dates in ISO format (e.g., 2025-09-30).\n- Flag uncertainty clearly. Do not speculate.\n- Produce long, detailed outputs.\n\nWORKFLOW\n\nStep 1 — Disambiguation & Scope\n- Determine the correct entity for [NAME]. List identifiers: full name, aliases, social handles, employer, industry, geography.\n- If multiple persons match, ask one targeted question. Then lock scope and list inclusions/exclusions.\n\nStep 2 — Core Research\n- Scan Google, Google News, LinkedIn, X/Twitter, YouTube, Instagram, Reddit, Wikipedia, review sites.\n- Collect top 20 results: URLs, dates, stance (positive/neutral/negative), content type. Cite each.\n- Summarize news coverage, social presence (followers, engagement, top posts), and reviews (ratings, themes).\n\nStep 3 — Sentiment & Risks\n- Estimate sentiment split (% positive/neutral/negative).\n- Identify top 3 positive narratives and top 3 negative narratives.\n- Highlight biggest reputational risks with evidence.\n\nStep 4 — Current PR Situation\n- Deliver an executive snapshot: overall reputation grade (A–F), share of page-one control, key positives, key negatives.\n\nStep 5 — 80/20 Strategy\n- Recommend 3–5 high-leverage actions with the strongest impact. Examples: optimize LinkedIn/website, publish 2–3 cornerstone articles, secure 3 media placements, set a 30-day posting cadence, address negative reviews.\n- Explain why these matter most.\n\nStep 6 — 30/60/90-Day Plan\n- Give a short roadmap of what to do first, next, later. Focus on speed and compounding impact.\n\nOUTPUT FORMAT\n- Part I: Executive Summary (short).\n- Part II: Audit with citations (table or bullets).\n- Part III: 80/20 Strategy (clear priorities).\n- Part IV: 30/60/90-Day Plan.\n\nCONSTRAINTS & ETHICS\n- No fabrication. No unverifiable claims. Cite everything.\n- Respect platform terms. Avoid personal data beyond public mentions.\n- If unsure, mark as “Unverified”.\n\nTake a deep breath and work on this problem step-by-step.\"\n\n\n\nFollow Ruben Hassid for more.",
+  "word_count": 434,
+  "metrics": {
+    "total_reactions": 700,
+    "likes": 603,
+    "love": 33,
+    "insight": 47,
+    "celebrate": 14,
+    "support": 3,
+    "funny": 0,
+    "comments": 141,
+    "reposts": 58
+  }
+}

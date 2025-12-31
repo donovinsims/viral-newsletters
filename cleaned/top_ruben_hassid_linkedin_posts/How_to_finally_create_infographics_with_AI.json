@@ -1,0 +1,20 @@
+{
+  "id": "how_to_finally_create_infographics_with_ai",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-12-07",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "How to (finally) create infographics with AI:\n\n1. Go to YouTube. \n2. Find a long lecture. Copy the URL. \n3. Paste it in Gemini with this prompt: \n\n\"Analyse deeply the content of this video [YT URL]\"\n\nLet Gemini process the video.\n\n4. Click Tools → Create images.\n5. Prompt Gemini again:\n\n\"Generate an infographic. Turn this transcript into a cheatsheet with key takeaways and give final output as 9:16 image\"\n\n6. Use this prompt guide: https://lnkd.in/dh6g5MNd.\n\nThis is how you turn any video in a visual summary.",
+  "word_count": 87,
+  "metrics": {
+    "total_reactions": 1166,
+    "likes": 986,
+    "love": 54,
+    "insight": 99,
+    "celebrate": 17,
+    "support": 10,
+    "funny": 0,
+    "comments": 161,
+    "reposts": 98
+  }
+}

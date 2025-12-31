@@ -1,0 +1,20 @@
+{
+  "id": "new_google_released_a_new_guide_on_prompting",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-11-14",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "NEW: Google released a new guide on prompting.\n\nThe right context is the new gold:\n\n(PS: Access my guide → https://lnkd.in/d7gBvDmK)\n\n✦ LLMs forget everything. You must rebuild their “brain” every turn from outside data.\n ✦ Sessions are ordered events + a working state, not just a chat log.\n ✦ Memory is extracted facts and summaries, not raw transcripts.\n ✦ RAG is shared documents. Memory is personal history for one user or app.\n ✦ Long chats must be compacted with rules: what to keep, summarize, and drop.\n ✦ Good systems split memory scopes: user-level, session-level, and app-level.\n ✦ Each turn is a loop. Load session, pull memories, build context, call model, store new memories. \n\nIt's part of my \"best free AI guides\" list at https://lnkd.in/d4FZamEH, which you can also access here: https://lnkd.in/dSj2SU9Z.",
+  "word_count": 132,
+  "metrics": {
+    "total_reactions": 526,
+    "likes": 423,
+    "love": 34,
+    "insight": 48,
+    "celebrate": 11,
+    "support": 10,
+    "funny": 0,
+    "comments": 180,
+    "reposts": 46
+  }
+}

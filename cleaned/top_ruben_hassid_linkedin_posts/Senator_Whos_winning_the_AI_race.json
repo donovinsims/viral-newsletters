@@ -1,0 +1,20 @@
+{
+  "id": "senator_whos_winning_the_ai_race",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-05-17",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "Senator: \"Who's winning the AI race?\"\n\nSam Altman: \"It’s very hard to say how ahead we are from China, but I’d say... not a huge amount of time.\"\n\nChina is winning because:\n\n☑ State-led funding at scale, pumping tens of billions into AI R&D\n☑ End-to-end supply chain control from chip design (Huawei, SMIC) to fabrication\n☑ Vast domestic data sets and lax privacy rules for model training\n☑ Rapid deployment from startups like DeepSeek with cut-price models\n☑ Talent repatriation incentives drawing top researchers back to Beijing\n\nIn a matter of 12 months, China…\n→ Rolled out the 910C GPU across government labs\n→ Launched DeepSeek R2 at 1/4th Western prices\n→ Spent $50 billion on AI compute infrastructure\n→ Built 2,000 AI-optimized data centers\n→ Graduated 100,000 new AI PhDs\n\nU.S. is winning because:\n\n☑ Private-sector innovation from OpenAI, Google, Anthropic\n☑ GPU and cloud leadership via NVIDIA, AWS, Azure\n☑ Deep venture-capital ecosystem fueling rapid startup growth\n☑ Open research culture accelerating breakthroughs and publications\n☑ Strategic export controls limiting China’s access to cutting-edge chips\n\nIn a matter of 12 months, the U.S.…\n→ Raised $30 billion in AI venture funding\n→ Passed light-touch AI bills for innovation\n→ Deployed “Stargate” compute hubs nationwide\n→ Attracted 50,000 AI researchers with new visas\n→ Launched GPT-4.5 and Gemini 2.5 to global users\n\nThe AI race is tight.",
+  "word_count": 229,
+  "metrics": {
+    "total_reactions": 595,
+    "likes": 493,
+    "love": 28,
+    "insight": 57,
+    "celebrate": 9,
+    "support": 7,
+    "funny": 1,
+    "comments": 229,
+    "reposts": 27
+  }
+}

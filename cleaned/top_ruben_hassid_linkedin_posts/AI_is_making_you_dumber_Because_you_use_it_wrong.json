@@ -1,0 +1,20 @@
+{
+  "id": "ai_is_making_you_dumber_because_you_use_it_wrong",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-06-13",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "AI is making you dumber. Because you use it wrong.\n\n7 (stupid) mistakes you must avoid:\n\n☑ 1: Treating the prompt like a Google search bar\n\nOne-line, zero-context queries give you one-line, zero-context answers. If you won’t brief a human like that, don’t do it to a model.\n\n☑ 2: Dumping a mess and hoping for magic\n\nUploading an un-edited doc-pile (“fix this”) is like tossing your laundry at a tailor. Give structure first: outline, goal, constraints. Then let the model stitch.\n\n☑ 3: Accepting the first draft as gospel\n\nThe first reply is raw material. Mine it: ask follow-ups, request counterarguments, demand rewrites. Iterate or stay mediocre.\n\n☑ 4: Hiding the audience from the AI\n\n“Write an email” to whom? A CFO, a gamer, your grandma? Models mirror the reader you specify; skip this and you get generic slop.\n\n☑ 5: Expecting clairvoyance without data\n\n“Predict next quarter revenue” while withholding numbers is futile. Feed real inputs or enjoy fiction.\n\n☑ 6: Blind-copy pasting hallucinations\n\nIf you don’t verify facts, citations, and links, the mistake isn’t the AI’s hallucination, it’s yours.\n\n☑ 7: Outsourcing judgment you wouldn’t delegate to an intern\n\nStrategy, ethics, hiring decisions—these need your neurons. Use the model for perspective, not responsibility.\n\nAvoid these 7 sins and you will soon benefit from the fastest growing human invention ever made.",
+  "word_count": 223,
+  "metrics": {
+    "total_reactions": 613,
+    "likes": 487,
+    "love": 41,
+    "insight": 49,
+    "celebrate": 16,
+    "support": 16,
+    "funny": 4,
+    "comments": 202,
+    "reposts": 27
+  }
+}

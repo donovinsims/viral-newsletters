@@ -1,0 +1,20 @@
+{
+  "id": "youre_stuck_on_an_endless_loop_with_chatgpt",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-05-13",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "You're stuck on an endless loop with ChatGPT.\n\nHere's how to get out of it (3 steps):\n\n1. Recognize the loop.\n\nLLMs like ChatGPT hallucinate.\n\nThey get stuck in endless loops of answers, without taking into consideration your follow-up prompts.\n\nI realized that:\n☑ No prompt engineering can get you out.\n☑ It happens more with \"search\" activated.\n☑ It happens more on gpt-4o (non-reasoning).\n\nHere's what to do instead:\n\n2. Edit past prompts.\n\n☑ Instead of writing follow-up prompts...\n↳ Edit your past prompt with a different approach.\n\n☑ Instead of brute forcing a model like gpt-4o...\n↳ Edit a past prompt + change the model.\n\nBut the very best solution is obviously to...\n\n3. Start all over again.\n\n☑ Choose the o3 model over anything else.\n↳ It's the one that hallucinates the least.\n\n☑ Avoid searching + reasoning at the same time.\n↳ Search first and then follow up with reasoning.\n\n☑ Ask to think step by step.\n↳ Not everything, all at once. Lay down the steps.\n\nIf you learned something, give it a",
+  "word_count": 178,
+  "metrics": {
+    "total_reactions": 480,
+    "likes": 342,
+    "love": 27,
+    "insight": 30,
+    "celebrate": 12,
+    "support": 3,
+    "funny": 66,
+    "comments": 189,
+    "reposts": 13
+  }
+}

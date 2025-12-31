@@ -1,0 +1,20 @@
+{
+  "id": "this_boring_ai_agent_is_the_only_one_i_actually_use",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-12-23",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "This (boring) AI agent is the only one I (actually) use.\n\nIt saves me 20 min/day. Here's how:\n\n1. Go to Zapier.\n\n✦ Sign up for free.\n✦ Go to their agent: agents.zapier.com.\n✦ Click \"New Agent\" on the top right of the screen.\n✦ Prompt \"Describe your workflow\" like ChatGPT.\n\nHere's my prompt (on my video) to search and summarize the best academic papers on AI.\n\nPrompt: \n\n\"Browse to [arxiv website for AI papers]. AI/recent to view the latest AI papers. You must screenshot the website multiple times to collect at least 50 research papers total.\n\nScan through the paper titles and abstracts on the page to identify the 5 best articles. Prioritize articles that help people get better at prompting LLMs. Examples of relevant topics include chain-of-thought prompting techniques, being rude to ChatGPT for better responses, prompt engineering strategies, and practical prompting tips. Avoid articles focused on helping researchers build better LLMs or technical model development. You successfully teach non-technical users of LLMs get better at prompt engineering. You do not help researchers.\n\nExtract the arXiv ID (format like arXiv:2511.20627) of the selected 5 papers (out of 50).\n\nNavigate to arxiv [extracted arXiv ID] to access the full paper.\n\nAnalyze the full paper abstract and title content and create a comprehensive summary for each paper. The summary should be a summary analysis highlighting relevance to ChatGPT prompting, including main findings, how it applies to prompting, and practical takeaways for users, and most importantly, the surprising aspect of this paper.\n\nHere is a perfect example of a summary:\n\n[example of a good summary]\n\nFor each selected paper, collect:\n- Paper Title \n- Summary (summary with ChatGPT prompting relevance, main findings, application to prompting, and practical takeaways)\n- Direct Link (format: link[arXiv ID])\n\nAdd all collected papers to Google Sheets with columns for Paper Title, Summary, and Direct Link. :action[Google Sheets]\n\nSend ONE single Slack message containing all 5 papers in a numbered list format. The message should start with \"Daily AI paper suggestions are ready!\" followed by each paper formatted as:\n\n1. Title: [Paper Name]\narXiv link: [arXiv ID]\nWhy it matters: [summary about the paper and its surprising aspect to prompt LLMs better for non-technical users].\n\nContinue until getting 5.\n\nUse: action [Slack] to send me the message\n\nFinal Goal: Collect exactly 5 relevant AI research papers focused on ChatGPT prompting techniques, save them to Google Sheets, and notify the team via Slack with ONE single message containing all 5 papers in numbered list format with bold field names, indented information.\"\n\n---\n\n2. Turn your agent on. \n\n✦ Make sure to have credits.\n✦ It's a few cents per day, nothing much.\n✦ I receive a Slack message + updated Excel.\n\n3. Help others.\n\n✦ Save it for later to create your first AI agent.\n✦ Repost this video ♻️ to help others master AI.\n✦ I partner with Zapier on this sponsored post.",
+  "word_count": 486,
+  "metrics": {
+    "total_reactions": 546,
+    "likes": 441,
+    "love": 34,
+    "insight": 58,
+    "celebrate": 12,
+    "support": 1,
+    "funny": 0,
+    "comments": 236,
+    "reposts": 23
+  }
+}

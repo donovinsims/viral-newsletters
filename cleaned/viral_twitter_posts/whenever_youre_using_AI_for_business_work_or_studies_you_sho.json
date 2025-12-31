@@ -1,0 +1,16 @@
+{
+  "id": "whenever_youre_using_ai_for_business_work_or_studies_you_sho",
+  "source": "twitter",
+  "author": "EXM7777",
+  "date": "2025-12-13",
+  "url": "https://x.com/EXM7777/status/1999886036592427187",
+  "text": "whenever you're using AI for business, work, or studies, you should be doing this:\n\nuse a project (or Gemini Gem, Custom GPT... whatever you want to call it)\n\nit's literally negative EV to use AI without injecting structured context\n\nhere's the system:\n\n> whenever you start working on something new, have the LLM create a \"context-yourproject.json\" file\n> then at the end of each chat session, ask it to update this file with everything new it learned\n> reinject the updated file back into the project\n\nthis alone will get you 10x better outputs and save massive amounts of time\n\nyou stop repeating yourself, the AI stops forgetting things, and quality compounds instead of resetting every conversation",
+  "word_count": 117,
+  "metrics": {
+    "likes": 550,
+    "retweets": 32,
+    "replies": 25,
+    "views": 29233,
+    "engagement_rate": 2.08
+  }
+}

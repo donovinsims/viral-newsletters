@@ -1,0 +1,16 @@
+{
+  "id": "my_claude_mcp_agent_just_wrote_a_sales_proposal_that_closed",
+  "source": "twitter",
+  "author": "aryanXmahajan",
+  "date": "2025-07-27",
+  "url": "https://x.com/aryanXmahajan/status/1949522816191361336",
+  "text": "My Claude MCP Agent just wrote a sales proposal that closed a $6K deal.\n\nNot kidding. One MCP setup:\n- syncs Airtable transcripts automatically\n- extracts pain points with Claude reasoning\n- runs Perplexity research on prospects\n- generates Google Doc proposals that convert\n\nbasically everything to automate your sales process\n\nreply \"CLOSER\" + retweet and i'll send the workflow (must be following so i can dm)\n\nonly FREE for 48 hours before it goes into the void.",
+  "word_count": 78,
+  "metrics": {
+    "likes": 665,
+    "retweets": 249,
+    "replies": 441,
+    "views": 66451,
+    "engagement_rate": 2.04
+  }
+}

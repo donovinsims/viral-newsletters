@@ -1,0 +1,20 @@
+{
+  "id": "please_thanks_chatgpt_is_killing_your_results",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-12-04",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "\"Please\" & \"Thanks ChatGPT\" is killing your results.\n\nHere are 7 prompting mistakes you must fix now:\n\n(entire free prompt guide: https://lnkd.in/dsNpzraC)\n\nFIRST – you must stop being polite. \n\n1. Rudeness makes ChatGPT 5% more accurate. \n2. Skip the small talk. Go straight to the task. \n3. Never open with “please” or “could you”. \n\nTHEN – you must get clear on intent.\n\n4. Intent.\n- Never be vague. Spell out the task.\n- Never change your ask mid-prompt.\n- Always mention safety, bias, and context.\n- State audience, goal, & what success looks like.\n\n5. Structure.\n- Always set length limits.\n- Always say what to avoid.\n- Always state the output format.\n- Always list allowed tools or sources.\n\n6. Wording.\n- Never use small talk or polite openers.\n- Cut all irrelevant details. Avoid token bloat.\n- Put constraints at the start, not in the middle.\n- Always use positive words. Say “do,” not “don’t.”\n\n7. Data & Delimiters.\n- Never mix instructions with pasted data.\n- Only add examples that matter. Never too many.\n\nNow, here are the 7 prompt fixes to use:\n___\n\nFIX 1: Be direct. Skip polite filler.\n\nPrompt: “We will write a brief for my design team concerning [X]. \nBut first, I want us to brainstorm. \n1. Search online design brief principles. \n2. Ask me 5 clarifying questions to best write our brief.\"\n___\n\nFIX 2: Specify the audience.\n\nPrompt: “Write a plain-English GDPR guide for non-technical SaaS founders. 15-minute read. Focus on practical steps and checklists.\"\n___\n\nFIX 3: Split complex tasks into simpler steps.\n\nPrompt: “We will draft a lean plan for [App]. \nStep 1: list top 5 customer problems. \nStep 2: write UVP. \nStep 3: outline channels. After each step, pause and confirm.\"\n___\n\nFIX 4: Use affirmative “do,” avoid “don’t.”\n\nPrompt: “Be concise. Use short sentences. Prefer common words.”\n___\n\nFIX 5: Add a tipping incentive line.\n\nPrompt: “Summarize the paper in 5 bullets with citations. If you meet all specs, I’ll tip $20.”\n___\n\nFIX 6: Use few-shot examples.\n\nPrompt: “Follow the style of these examples:\nA) [polite apology + solution]\nB) [reassurance + next step]\nNow reply to: [customer message] using that style.\"\n___\n\nFIX 7: Include “Your task is” and “You MUST.”\n\nPrompt: “Your task is to rewrite my resume for [role]. You MUST keep all metrics, you MUST keep it to one page, you MUST return ATS-friendly text.”\n____\n\nIt’s 2025. Polite prompts are outdated.\n\nAnd the science is clear:\n\n☑ Direct, clear, and structured prompts win.\n☑ Rudeness boosts accuracy.\n☑ Audience, intent, and format matter.\n\nStop saying “please.” Start getting results.",
+  "word_count": 438,
+  "metrics": {
+    "total_reactions": 617,
+    "likes": 464,
+    "love": 34,
+    "insight": 67,
+    "celebrate": 13,
+    "support": 12,
+    "funny": 27,
+    "comments": 376,
+    "reposts": 44
+  }
+}

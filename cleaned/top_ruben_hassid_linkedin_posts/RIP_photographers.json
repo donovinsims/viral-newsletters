@@ -1,0 +1,20 @@
+{
+  "id": "rip_photographers",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-12-11",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "RIP photographers?\n\nThis AI builds a photo studio (in seconds):\n\nIt took me 10 minutes to 1) prompt, 2) create, 3) host on a domain, & 4) make a software with Blink.\n\nHere's the step-by-step (from the video):\n\n1. Go to Blink .new\n2. Give it a prompt:\n3. Here's mine from the video:\n\nPrompt: \"Use the new nanoBanana Pro from Gemini to create a very simple SaaS. The user will upload a picture of themselves, and it will turn it into a perfect headshot, a professional one with the correct studio lighting. You will make a color version and a black and white version. You will give us the two versions. The flow is very simple:\n\n1- The user uploads a picture of themselves\n2- They then upload a picture for reference\n3- You use nanoBanana Pro from Gemini\n4- Use my photo + the reference for a studio photo\n5- Generate a black&white and a color picture.\"\n\n---\n\nThen I made another one to furnish any room:\n\nPrompt: \"I want an app that turns an empty room into a fully furnished designer room that uses brutalism. Use Nano Banana Pro with the following prompt: \"Turn my uploaded empty room into the best fashion designer brutalism furnished room.\"\n\n---\n\nOnce you have generated the software, test it.\n\n✦ If there is an error, say it. It will correct it.\n✦ It's already hosted on a domain (on a URL).\n✦ You can connect your Stripe to receive payments.\n\nThe software industry is worth over $200 billion.\n\nAnd AI is replacing it with a few prompts + AI.",
+  "word_count": 268,
+  "metrics": {
+    "total_reactions": 817,
+    "likes": 687,
+    "love": 49,
+    "insight": 53,
+    "celebrate": 19,
+    "support": 5,
+    "funny": 4,
+    "comments": 249,
+    "reposts": 70
+  }
+}

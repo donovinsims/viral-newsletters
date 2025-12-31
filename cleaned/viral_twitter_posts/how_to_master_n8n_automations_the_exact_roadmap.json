@@ -1,0 +1,16 @@
+{
+  "id": "how_to_master_n8n_automations_the_exact_roadmap",
+  "source": "twitter",
+  "author": "EXM7777",
+  "date": "2025-11-03",
+  "url": "https://x.com/EXM7777/status/1985368134023631062",
+  "text": "how to master n8n automations (the exact roadmap):\n\nit takes 30 days to go through the whole thing... by the end you'll have built 50+ automations, making you more competent than 90% of the \"automation gurus\" out there\n\nthe roadmap is stupidly simple: watch 2 videos from robonuggets every day for 30 days\n\nstart from his videos from 6 months ago when he shifted focus to n8n... there are about 60 videos total\n\nand btw you're not just watching... you're rebuilding every workflow he shares: no cheating, no copy-paste, just listen carefully and rebuild every node yourself\n\nset up a Claude project with n8n documentation to help with debugging when you're stuck, but figure out most of it yourself\n\nfrom there, build your own systems on the side - grab node setups from his videos to speed things up, but it's crucial you build YOUR own workflows\n\nalso... get some prompt engineering basics\n\nn8n's AI builder will save you hours in the future, but don't skip the fundamentals\n\ndo the work yourself, invest a few hours daily, make sure you understand everything you're building\n\nthat's how you actually learn",
+  "word_count": 189,
+  "metrics": {
+    "likes": 703,
+    "retweets": 63,
+    "replies": 27,
+    "views": 39670,
+    "engagement_rate": 2.0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "you_underestimate_the_power_of_good_prompts",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-07-07",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "You underestimate the power of good prompts.\n\nHere are 5 frameworks to copy & paste:\n\n1 – T-A-S-K\n☑ Define the (Task / Goal)\n☑ Name the (Audience)\n☑ Cite the (Source)\n☑ Set a (KPI)\n\nExample:\n☑ TASK: Create a LinkedIn post\n☑ AUDIENCE: Gen-Z software engineers\n☑ SOURCE: Attached employee-survey quotes\n☑ KPI: Optimise for CTR ≥ 3%\n\n2 – P-L-A-N\n☑ State the (Problem)\n☑ List the (Limits)\n☑ Add the (Assets)\n☑ Note the (Needed Output)\n\nExample:\n☑ PROBLEM: Warehouse picking time too high\n☑ LIMITS: $50k capex\n☑ ASSETS: SKU velocity spreadsheet\n☑ NEEDED OUTPUT: One-page slide deck\n\n3 – C-O-D-E\n☑ Clarify the (Context)\n☑ Specify the (Output Format)\n☑ Provide the (Data)\n☑ Establish an (Evaluation)\n\nExample:\n☑ CONTEXT: Security audit of Flask app\n☑ OUTPUT FORMAT: OWASP-style Markdown report\n☑ DATA: Attached app files\n☑ EVALUATION: Flag CVSS ≥ 7.0\n\n4 – G-A-I-N\n☑ State the (Goal)\n☑ Identify the (Audience)\n☑ Inject the (Input)\n☑ Nail the (Numeric Target)\n\nExample:\n☑ GOAL: Lift seat expansion\n☑ AUDIENCE: Enterprise buyers\n☑ INPUT: Last-quarter usage logs\n☑ NUMERIC TARGET: +25%\n\n5 – R-E-S-T\n☑ Assume the (Role)\n☑ Compile the (Evidence)\n☑ Choose the (Style)\n☑ Define the (Target Metric)\n\nExample:\n☑ ROLE: Academic literature mapper\n☑ EVIDENCE: 15 research papers\n☑ STYLE: Bullet-friendly, technical\n☑ TARGET METRIC: Cap read-time at 4 minutes\n\nMore (for free) at how-to-ai.guide.",
+  "word_count": 235,
+  "metrics": {
+    "total_reactions": 806,
+    "likes": 712,
+    "love": 32,
+    "insight": 43,
+    "celebrate": 12,
+    "support": 6,
+    "funny": 1,
+    "comments": 111,
+    "reposts": 83
+  }
+}

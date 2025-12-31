@@ -1,0 +1,20 @@
+{
+  "id": "26_chatgpt_prompt_principles_backed_by_science",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-07-20",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "26 ChatGPT Prompt Principles backed by science.\n\n(save it for later using the top-right dots)\n\n1. No need to be polite with LLM.\n\n2. Integrate the intended audience in the prompt, e.g., the audience is an expert in the field.\n\n3. Break down complex tasks into a sequence of simpler prompts in an interactive conversation.\n\n4. Use positive commands like \"do\" and avoid negative words like \"don't\".\n\n5. When you need clarity, utilize the following prompts:\n\n - Explain [insert specific topic] in simple terms.\n - Explain to me like I'm 11 years old.\n - Explain to me as if I'm a beginner in [field].\n\n6. Add \"I'm going to tip $xxx for a better solution!\"\n\n7. Implement example-driven prompting.\n\n8. When formatting your prompt, start with '### Instruction ###', followed by either '### Example ###' or '### Question ###' if relevant. \n\nUse one or more line breaks to separate instructions, examples, questions, context, and input data.\n\n9. Incorporate the following phrases: \"Your task is\" and \"You MUST\".\n\n10. Incorporate the following phrases: \"You will be penalized if\".\n\n11. Use the phrase \"Answer a question given in a natural, human-like manner\" in your prompts.\n\n12. Use leading words like writing \"think step by step\" (chain-of-thought prompting).\n\n13. Add to your prompt the following phrase \"Ensure that your answer is unbiased and does not rely on stereotypes\".\n\n14. Let the model ask you questions to get enough details to give the right answer (e.g., \"Please ask me questions to get the info you need...\").\n\n15. To ask about a specific topic:\n\n\"Teach me [any theorem/topic/rule] and include a test at the end. Don't give me the answers; just tell me if I got them right.\"\n\n16. Assign a role to the large language models.\n\n17. Use Delimiters.\n\n18. Repeat a specific word or phrase multiple times within a prompt.\n\n19. Combine Chain-of-thought (providing step-by-step) with few-shot prompts (giving examples).\n\n20. End your prompt with the start of the desired response to guide the model to the right answer.\n\n21. \"Write a detailed [essay/text/paragraph] on [topic], including all necessary information.\"\n\n22. To correct specific text without changing its style:\n\n\"Revise each paragraph to improve grammar and vocabulary while keeping the original writing style.\"\n\n23. For complex coding prompts across files:\n\n\"Generate a [programming language] script that can create or modify files as needed to include the generated code. [your question]\"\n\n24. For starting or continuing a text with specific words:\n\n\"Here is the beginning [song lyrics/story/paragraph/essay...]: [Insert lyrics/words/sentence]. Finish it and keep the flow consistent.\"\n\n25. Clearly state the requirements for the model, including keywords, rules, hints, or instructions.\n\n26. To write text similar to a sample, include this instruction: \"Use the same language style as the provided paragraph/title/text/essay/answer.\"\n\nIf you learned something, hit the ♻️ to help others.",
+  "word_count": 466,
+  "metrics": {
+    "total_reactions": 1068,
+    "likes": 958,
+    "love": 42,
+    "insight": 53,
+    "celebrate": 11,
+    "support": 4,
+    "funny": 0,
+    "comments": 147,
+    "reposts": 70
+  }
+}

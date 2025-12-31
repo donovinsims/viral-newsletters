@@ -1,0 +1,20 @@
+{
+  "id": "your_prompts_are_too_vague",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-06-07",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "Your prompts are too vague. \n\nHere’s a simple fix: \n\nUse the RISE framework: \n→ Role: tell the AI who it should act as\n→ Input: give context like you would to a team member\n→ Steps: break down the task logically\n→ Expectations: tell it exactly what you want in the output\n\nClear in → Clear out. That’s RISE.",
+  "word_count": 59,
+  "metrics": {
+    "total_reactions": 1041,
+    "likes": 888,
+    "love": 47,
+    "insight": 88,
+    "celebrate": 12,
+    "support": 5,
+    "funny": 1,
+    "comments": 133,
+    "reposts": 75
+  }
+}

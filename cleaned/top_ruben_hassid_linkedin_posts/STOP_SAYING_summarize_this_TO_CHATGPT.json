@@ -1,0 +1,20 @@
+{
+  "id": "stop_saying_summarize_this_to_chatgpt",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-11-03",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "STOP SAYING “summarize this” TO CHATGPT.\n\nTry these 7 sharper prompts instead:\n\n(from this blog https://lnkd.in/dCjcTz_A)\n\n1. Role-Play\n\nGiving the model a clear persona (e.g., \"You are an HR consultant\") immediately constrains the model's behavioral parameters and knowledge domain.\n\n✦ Bad prompt: \"Help with pricing.\"\n\n✦ Good prompt: \"Act as a senior B2B pricing consultant. Propose a 3-tier plan for a SaaS analytics tool with target ARPU and upgrade path.\"\n\n2. Require Step-by-Step Reasoning\n\nInstructing the model to articulate its thought process before the final answer.\n\n✦ Bad prompt: \"Summarize this article about AI ethics.\"\n\n✦ Good prompt: \"Summarize this article about AI ethics. Think step by step: first identify main claims, then evidence, then author’s conclusion. Return the summary only after reasoning through each part.\"\n\n3. Define Output Format\n\nBy providing an exact format—often called an output primer—or high-quality examples (few-shot), you force the model to adhere strictly to your desired structure, rather than guessing what matters.\n\n✦ Bad prompt: \"Write a bug report.\"\n\n✦ Good prompt: \"Write a bug report using this starter template. Begin exactly like this and fill in: Title: [ ] Environment: [ ] Steps to Reproduce: [ ] Expected: [ ] Actual: [ ] Notes: [ ]\"\n\n4. Use Delimiters\n\nYou want to avoid the \"lost-in-the-middle\" syndrome. You must have a section for examples, and instructions. Use delimiters never to mix them.\n\n✦ Bad prompt: \"Rewrite my paragraph.\"\n\n✦ Good prompt: \"Rewrite the text delimited by triple backticks for clarity and brevity. Keep tone. <<<[paste text]>>>\".\n\n5. Require Clarifying Questions Before Execution\n\nIf information is missing, instruct the model to first ask targeted questions about context, audience, goal, or proof.\n\n✦ Bad prompt: \"Draft a partnership email.\"\n\n✦ Good prompt: \"Draft a partnership email to [Company]. First ask up to 5 clarifying questions about goal, offer, proof, and CTA. Then write.\"\n\n6. Ask for Multiple Options\n\nLarge Language Models (LLMs) operate based on probability, so a basic command often results in the single, highest-probability answer. Asking for multiple, diverse options forces the model to be more creative and in-depth.\n\n✦ Bad prompt: \"How should I spend 100$ on ads to grow my newsletter?\"\n\n✦ Good prompt: \"How should I spend 100$ on ads to grow my newsletter? Give me 3 strategies, from least to most aggressive. Use the latest data on the matter.\"\n\n7. Define Non-Negotiables\n\nExplicitly stating what the model MUST include, what the length limits are, and even what it will be penalized for.\n\n✦ Bad prompt: \"Answer quickly.\"\n\n✦ Good prompt: \"Your task is to rewrite my resume for [role]. You MUST keep all metrics, you MUST keep it to one page. You will be penalized for invented facts. If uncertain, say ‘insufficient data’ and ask for sources.\".\n\n---\n\nMuch more at how-to-ai.guide.\n\nYou learned something?",
+  "word_count": 465,
+  "metrics": {
+    "total_reactions": 642,
+    "likes": 519,
+    "love": 39,
+    "insight": 49,
+    "celebrate": 26,
+    "support": 8,
+    "funny": 1,
+    "comments": 204,
+    "reposts": 29
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "99_of_i_one-shotted_this_website_with_gemini_tweets_are_fake",
+  "source": "twitter",
+  "author": "EXM7777",
+  "date": "2025-11-20",
+  "url": "https://x.com/EXM7777/status/1991551622917615766",
+  "text": "99% of \"i one-shotted this website with Gemini\" tweets are fake...\n\nthat being said, there IS a way to get pretty damn close, it's just not the sexy one-click magic they pretend it is\n\nif you want to *nearly* one-shot a landing page, here's how to do it:\n\n1. find a landing you like (framer marketplace has hundreds)\n2. use that gofullscreen extension, save it as PDF + grab preview link\n3. craft a smart prompt (this is where everyone sucks)\n\nyour prompt needs to nail these:\n\n- modular approach: \"build section by section, validate with me before moving to next block\" this basically stops Gemini from building garbage\n- real functionality: \"build actual animations, button clicks, working graphs\", not just a pretty facade that falls apart when you click\n- responsive design: insist on it, or you'll get desktop-only mess\n\nsend the PDF, link, and prompt... then validate each section as it builds\n\nyou'll have a decent landing page in maybe 15min\n\n(though honestly you should just use framer or wordpress... be normal, this is more of a party trick than a real workflow)\n\nbut at least now you know how the magicians do it",
+  "word_count": 196,
+  "metrics": {
+    "likes": 267,
+    "retweets": 11,
+    "replies": 11,
+    "views": 16342,
+    "engagement_rate": 1.77
+  }
+}

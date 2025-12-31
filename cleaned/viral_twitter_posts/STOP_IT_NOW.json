@@ -1,0 +1,16 @@
+{
+  "id": "stop_it_now",
+  "source": "twitter",
+  "author": "EXM7777",
+  "date": "2025-12-04",
+  "url": "https://x.com/EXM7777/status/1996663048426475918",
+  "text": "STOP IT NOW\n\ni mean, right now, stop bookmarking tweets & looking for prompt engineering hacks...\n\ninstead, study the fundamentals:\n\n- model architecture differences (transformers vs diffusion vs retrieval)\n- attention mechanism behavior and how it affects prompt structure\n- training data bias recognition and mitigation strategies\n- inference optimization for production deployment\n- evaluation framework design for prompt effectiveness\n\nyou want tips, but skip the theory that makes tips actually work",
+  "word_count": 72,
+  "metrics": {
+    "likes": 210,
+    "retweets": 5,
+    "replies": 15,
+    "views": 9880,
+    "engagement_rate": 2.33
+  }
+}

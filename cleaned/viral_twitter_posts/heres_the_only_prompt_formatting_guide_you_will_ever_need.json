@@ -1,0 +1,16 @@
+{
+  "id": "heres_the_only_prompt_formatting_guide_you_will_ever_need",
+  "source": "twitter",
+  "author": "EXM7777",
+  "date": "2025-10-28",
+  "url": "https://x.com/EXM7777/status/1983254712662274493",
+  "text": "here's the only prompt formatting guide you will ever need:\n\nJSON - anything image generation and video creation\nXML - long-form prompts, copywriting, technical stuff\nplain text - everyday prompts that don't require optimization\n\ntbh plain text would do the job for any use case, but the extra step of formatting for the right use case will be noticeable in your outputs\n\ndefinitely worth it",
+  "word_count": 65,
+  "metrics": {
+    "likes": 219,
+    "retweets": 7,
+    "replies": 18,
+    "views": 13638,
+    "engagement_rate": 1.79
+  }
+}

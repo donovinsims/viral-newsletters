@@ -1,0 +1,20 @@
+{
+  "id": "the_making_of_me_as_iron_man",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-09-29",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "The making of me as Iron Man.\n\n Midjourney + Nano + Kinetix + Astra:\n\n1. Go to Midjourney.\n2. Prompt: \"iron man fighting in Paris --ar 4:5\".\n3. Generate it + upscale it on Gemini Nano-Banana.\n4. Download the upscaled image, save it for later.\n5. Record yourself playing out what you want.\n6. Go to Kinetix (beta testers only for now).\n7. Upload your recorded video + upscaled image.\n8. Kinetix generates 4x videos, with camera control.\n9. Download one and upscale it using Astra.\n\nFull video step-by-step: https://lnkd.in/d4UQkppd",
+  "word_count": 90,
+  "metrics": {
+    "total_reactions": 1002,
+    "likes": 806,
+    "love": 77,
+    "insight": 39,
+    "celebrate": 60,
+    "support": 10,
+    "funny": 10,
+    "comments": 322,
+    "reposts": 41
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "28_fundamentals_of_prompt_engineering",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-12-03",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "28 Fundamentals of Prompt Engineering:\n\n(worth saving for later, I promise)\n\n✦ More here: ruben.substack.com.\n✦ Taken from: https://lnkd.in/dsNpzraC.\n✦ Archive of free guides: https://lnkd.in/dSj2SU9Z.\n\nHere's the checklist to write a better prompt:\n\n1. Be direct.  \n2. Specify the audience.  \n3. Split complex tasks into simple steps.  \n4. Use affirmative “do.”  \n5. Ask for simple explanations.  \n6. Add a tipping incentive line.  \n7. Use few-shot examples.  \n8. Structure with sections and line breaks.  \n9. Include “Your task is” and “You MUST.”  \n10. Include “You will be penalized.”  \n11. Say “Answer in natural, human-like language.”  \n12. Prime with “think step by step.”  \n13. Require unbiased answers.\n14. Tell the model to ask clarifying questions.\n15. Teach first, quiz after.\n16. Use delimiters.  \n17. Repeat a keyword or phrase to emphasize it.  \n18. Combine step-by-step with few-shot.  \n19. End with an output instruction.\n20. For detailed writing, ask for a detailed piece.  \n21. For edits, fix grammar but keep the same style.\n22. For multi-file code, generate file scripts.\n23. Give a start, let the model continue.\n24. List exact requirements as keywords.\n25. Mimic the language of a provided sample.  \n26. 50–100-word prompt for simple tasks.  \n27. Use 150–300 words for medium tasks.\n28. Use 300–500 words for complex tasks.\n\nYou want to help your network?",
+  "word_count": 215,
+  "metrics": {
+    "total_reactions": 676,
+    "likes": 579,
+    "love": 33,
+    "insight": 45,
+    "celebrate": 13,
+    "support": 5,
+    "funny": 1,
+    "comments": 167,
+    "reposts": 74
+  }
+}

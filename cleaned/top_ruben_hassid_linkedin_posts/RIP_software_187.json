@@ -1,0 +1,20 @@
+{
+  "id": "rip_software",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-09-14",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "RIP software.\n\nThis AI made me an app (in seconds):\n\nRead the full guide → https://lnkd.in/dchBme3n. \n\nIt took me 60 seconds to 1) prompt 2) create 3) host on a domain 4) and make an entire app usable.\n\nHere's the step-by-step:\n\n1. Go to Blink .new\n2. Describe the app you want.\n3. Here's mine from the video:\n\nPrompt: \n\n---\n\n{Create the simple app that has this user journey:\n\n1. user upload a picture of them.\n2. user click \"generate my action figure\"\n3. you will use gemini nano-banana model in the backend\n4. you will edit the picture with the following prompt: \"Take this photo of me and turn me into a collectible figurine inside a toy box. The box should include a clear plastic window, bold graphics, and my name on the packaging. Style the figurine in a fun, toy-like way but keep my likeness recognizable.\"\n5. the user will receive the picture generated, and they can easily download it.}\n\n---\n\nOnce I hit \"generate\", I had an app, with Google user login, Stripe integration (to receive payments), and fully functional AI models embedded.\n\nThe software industry is worth over $200 billion.\n\nAnd AI is replacing it with prompts in English.",
+  "word_count": 203,
+  "metrics": {
+    "total_reactions": 987,
+    "likes": 823,
+    "love": 56,
+    "insight": 72,
+    "celebrate": 25,
+    "support": 9,
+    "funny": 2,
+    "comments": 239,
+    "reposts": 72
+  }
+}

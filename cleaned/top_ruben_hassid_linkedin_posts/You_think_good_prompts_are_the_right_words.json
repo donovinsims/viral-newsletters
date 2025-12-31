@@ -1,0 +1,20 @@
+{
+  "id": "you_think_good_prompts_are_the_right_words",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-07-15",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "You think good prompts are the right words.\n\nBut it's actually the right context:\n\n1. Context engineering is telling AI who you’re helping, what to share or skip, and how the outcome should look.\n\n2. You must cover 𝐖𝐡𝐨, 𝐖𝐡𝐲, 𝐖𝐡𝐚𝐭, 𝐇𝐨𝐰 when starting your chat.\n\n3. Here's a prompt to copy and paste:\n\n___\n\nROLE\n\nYou are [describe the assistant persona, e.g., “a clear‑thinking writing \ncoach”].\n\nOBJECTIVE\n\nHelp me [state the outcome, e.g., “draft a two‑page blog post about remote\nteamwork”].\n\nCONTEXT PACKAGE (add or delete lines as needed)\n\nAudience: [who will read the final piece]\nVoice and tone: [friendly/formal/playful/etc.]\nLength target: [e.g., “≈1,000 words” or “3 paragraphs”]\nKey facts, excerpts, data or links the answer must use:\n\n1. [paste or summarise source]\n2. [add links if ChatGPT does not block it]\n3. [attach PDFs, Excel, TXT…]\n\nKnown constraints or boundaries: [things to avoid, compliance needs, \nformatting rules]\n\nWORKFLOW\n\nStep 1. Gap check – list any information still missing; ask me concise \nquestions until gaps are filled.\nStep 2. Plan – outline a logical structure or bullet agenda for the piece. \nWait for my approval.\nStep 3. Draft – write the first version following the approved plan.\nStep 4. Review – pause & ask me for feedback on clarity, tone & completeness.\nStep 5. Revise – improve the draft with my notes.\n\nRepeat steps 3‑4 until I agree with the command AGREE.\n\nCONTEXT‑HANDLING RULES\n\n• If a pasted source exceeds ~200 words, first give me a one‑sentence \nsummary and ask whether to keep the full text in context.\n\n• If you need external knowledge I did not supply, list the missing \npoints in the Gap check.\n\nOUTPUT FORMAT\n\nReturn all content in [e.g., “plain text” / “Markdown with H2 headings”/“bullet lists only”].\nWhen you quote a key fact, reference it by its list number from the Context Package.\n\nFIRST ACTION\n\nStart with Workflow “step 0: Gap check.”\n___\n\nIt's all about \"context engineering\" more than \"prompt engineering\". I wrote a free blog about it how to master it: https://lnkd.in/dDfJK_Mp.\n\nPS: I share how I master AI with words, not code, on my blog \"how-to-ai.guide\". Unsubscribe anytime.",
+  "word_count": 357,
+  "metrics": {
+    "total_reactions": 1075,
+    "likes": 920,
+    "love": 48,
+    "insight": 91,
+    "celebrate": 12,
+    "support": 3,
+    "funny": 1,
+    "comments": 302,
+    "reposts": 62
+  }
+}

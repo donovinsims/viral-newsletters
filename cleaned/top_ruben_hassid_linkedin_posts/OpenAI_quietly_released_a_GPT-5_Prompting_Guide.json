@@ -1,0 +1,20 @@
+{
+  "id": "openai_quietly_released_a_gpt-5_prompting_guide",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-08-19",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "OpenAI quietly released a GPT-5 Prompting Guide.\n\nHere’s how to get the most out of it:\n\nWhat you skip → can hold you back.\nHow you write → shapes what you get.\nWhat you focus on → tells the model what matters.\n\n1. Use Role + Goal + Guardrails.\n↳ Tell the model who it is, what to achieve, and what to avoid.\n\n2. Layer your context.\n↳ Give background first, rules second, and the task last.\n\n3. Put key instructions last.\n↳ The model heavily weighs the final line.\n\n4. Use a Chain of Verification.\n↳ Think step-by-step, then check each step for errors before moving on.\n\n5. Try Dual-Pass answers.\n↳ Draft first, then improve with a self-check rubric.\n\n6. Force “I don’t know” honesty.\n↳ Prevents confident but wrong answers.\n\n7. Switch perspectives.\n↳ Solve from two angles, then merge the best parts.\n\n8. Control with delimiters.\n↳ Wrap rules or data in ``` or XML tags for clarity.\n\n9. Prime with examples.\n↳ Show 2 good and 1 bad example before asking for output.\n\nTo learn how to make the best out of ChatGPT 5...\nSimply click here: https://lnkd.in/gVx_ZPh3.",
+  "word_count": 193,
+  "metrics": {
+    "total_reactions": 781,
+    "likes": 658,
+    "love": 43,
+    "insight": 58,
+    "celebrate": 16,
+    "support": 6,
+    "funny": 0,
+    "comments": 131,
+    "reposts": 61
+  }
+}

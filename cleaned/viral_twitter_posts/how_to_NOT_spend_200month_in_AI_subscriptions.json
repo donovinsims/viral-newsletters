@@ -1,0 +1,16 @@
+{
+  "id": "how_to_not_spend_200month_in_ai_subscriptions",
+  "source": "twitter",
+  "author": "EXM7777",
+  "date": "2025-12-16",
+  "url": "https://x.com/EXM7777/status/2000973451809710303",
+  "text": "how to NOT spend $200/month in AI subscriptions:\n\nevery 6 weeks a new banger model releases, and if you want to stay competitive you need to try it\n\nso you subscribe to ChatGPT again, then Claude because they just achieved SOTA, then Gemini for Nano Banana...\n\nnow you're at $200/month paying for 7 different providers but only really using 1\n\nhere's a smarter approach:\n- create developer accounts for each LLM (OpenAI, Anthropic, Google, etc)\n- link your credit card and set up $5 automatic top-up on your balance\n- use something like typingmind to manage all your API keys in one place\n\n(not a collab, just genuinely what i use)\n\nyou get one interface with every model available, your projects and knowledge bases already configured, your MCPs and tools integrated across everything\n\nwhen a new model drops, you can test it immediately with your actual daily workflows instead of starting from scratch in a new chat window\n\nyou'll probably pay less than $50/month total in API usage vs $200+ for subscriptions you'd barely touch, and you get way more flexibility",
+  "word_count": 181,
+  "metrics": {
+    "likes": 370,
+    "retweets": 20,
+    "replies": 44,
+    "views": 32368,
+    "engagement_rate": 1.34
+  }
+}

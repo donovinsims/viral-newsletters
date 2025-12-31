@@ -1,0 +1,20 @@
+{
+  "id": "you_prompt_like_its_2022",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-08-27",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "You prompt like it’s 2022.\n\nHere’s how to go deeper instead:\n\n(for my full guide: https://lnkd.in/duP3Za5W)\n\nLevel 1: Surface Prompts\n\n- Zero-shot: Just ask and hope for the best.\n- One-shot: Give one example, get a little better.\n- Few-shot: Give a couple of examples, see some improvement.\n- Simple tasks: Summarize, rewrite, brainstorm, explain like I’m 5.\n\nThis is where most stop. It’s fast, but shallow. \nYou get generic answers, not expert work.\n\nLevel 2: Real Work Zone\n\n- Assign a role: Tell the AI who to be.\n- Specify tone and style: Set the voice.\n- Plan → Act → Summarize: Guide the process.\n- Set the task: Be exact about what you want.\n- Add stop conditions: Set limits and boundaries.\n- Give context: Share background, constraints, and audience.\n- Use temporary chats: Use ChatGPT without its memory of you.\n- Set output format: Bullets, tables, or custom.\n- Tool policy: Decide if browsing is on or off.\n- Show examples of good outputs: Set the bar.\n- Manage memory: Keep projects organized.\n\nThis is where the quality jumps. \nYou get focused, and useful results.\n\nLevel 3: Where the Magic Happens \n\n- Choose the right model: Pick the best tool for the job.\n- Thinking vs Fast: Decide if you want deep or quick answers.\n- Reasoning instructions: Tell the AI to think step by step.\n- Chain-of-Thought: Guide the logic, not just the output.\n- Iteration loop: Feedback, revision, and final polish.\n- Problem-solving: Focus on the 20% that gets 80% of results.\n- Combine role, context, examples, and iteration for expert-level work.\n\nThe deeper you go, the better your results.",
+  "word_count": 275,
+  "metrics": {
+    "total_reactions": 1413,
+    "likes": 1218,
+    "love": 49,
+    "insight": 118,
+    "celebrate": 17,
+    "support": 11,
+    "funny": 0,
+    "comments": 182,
+    "reposts": 153
+  }
+}

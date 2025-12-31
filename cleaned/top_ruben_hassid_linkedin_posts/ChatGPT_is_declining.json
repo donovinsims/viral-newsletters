@@ -1,0 +1,20 @@
+{
+  "id": "chatgpt_is_declining",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-12-07",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "ChatGPT is declining.\n\nSwitch to (better) AI, with these prompts:\n\n1. Claude 4.5-Opus to write.\n2. Grok-4.1-Thinking to search.\n3. Gemini (Nano+Veo) for images and videos.\n4. Use this prompt guide: https://lnkd.in/dUFKX9jg.\n\n1. Claude 4.5-Opus to write.\n\n☑ Use custom styles.\n☑ Search before writing.\n☑ Here's a prompt example:\n\nPrompt: \"Act as my newsletter research lead for “How to AI” (180K+ subscribers on Substack). Your job: find my next Sunday newsletter topic.\nWhat performs well for my audience:\nCounterintuitive AI findings (e.g., my hit “Rude” — an arxiv paper showing rudeness improves ChatGPT outputs)\nMajor product launches the week they drop (ChatGPT-5, new Claude features, etc.)\nPractical “hidden feature” deep-dives\nContrarian takes backed by data\nYour research plan:\nSearch this week’s AI news for anything with viral potential\nCheck arxiv.org for recent AI/LLM papers with surprising or counterintuitive findings\nLook for underreported announcements from OpenAI, Anthropic, Google, Meta\nScan for emerging controversies or debates in AI\nDeliver 10 topic + angle combinations: For each, give me:\nTopic (2-5 words)\nAngle (the specific hook that makes it newsletter-worthy)\nSource (link)\nWhy it fits (one sentence on why my audience would care)\nPrioritize “I didn’t know that” moments over obvious news everyone’s already covered. Start by searching now — I need fresh options, not hypotheticals.\"\n\n2. Grok-4.1-Thinking to search.\n\n☑ The only AI that can search through Twitter.\n☑ The most accurate AI to find relevant news.\n☑ Here's a prompt example (but I found many more here: https://lnkd.in/dUFKX9jg).\n\nPrompt: “Act as a public opinion researcher. Your goal is to gauge polarized views on a hot-button issue, defining success as categorizing 30+ X posts into pro/con/neutral buckets with engagement metrics, backed by web snippets for context. Employ X semantic search with a query like ‘debate on [topic]’ excluding biased sources, and web search with snippets for ‘site:reddit.com [topic] OR site:news.com [topic]’.”\n\n3. Gemini (Nano+Veo) for images and videos.\n\n☑ The best AI to make both images and videos.\n☑ Nano-Banana vibecheck: https://lnkd.in/dZ96-CFS.\n☑ Prompt for infographics: https://lnkd.in/dh6g5MNd.\n☑ Prompt for pro headshots: https://lnkd.in/d5YBitjd.\n\nYou want to help your network?\n\n\nAccess my free AI guides at → how-to-ai.guide",
+  "word_count": 356,
+  "metrics": {
+    "total_reactions": 889,
+    "likes": 736,
+    "love": 34,
+    "insight": 92,
+    "celebrate": 13,
+    "support": 12,
+    "funny": 2,
+    "comments": 225,
+    "reposts": 95
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rip_junior_consultants",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-08-17",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "RIP junior consultants.\n\nHow to prompt ChatGPT to be a consultant:\n\n ✦ Turn on \"GPT-5 Thinking\".\n✦ Copy & paste this prompt for quick searches:\n\nPrompt: \"Act like [expert, for example “McKinsey consultant”]. Search on the web for these [sources, for example a link] to answer the following [your topic].\"\n\n✦ For a much deeper search, use \"Deep Research\".\n✦ Copy & paste this prompt for a long report:\n\nPrompt: \"Role: Research analyst. Show a brief plan, then execute with citations.\nGoal: [ONE-LINE GOAL].\nScope: Geo=[GEOGRAPHY]; Time=[START–END] history; [FUTURE YEARS]=forecasts only (with citations). Units=[CURRENCY/UNITS]. Include=[IN]; Exclude=[OUT].\nMetrics: [METRIC 1]; [METRIC 2]; [METRIC 3]; [ADD MORE].\nSources (priority): [STATS OFFICE/MINISTRY] > [REGULATOR/INDUSTRY BODY] > [INTL DB: OECD/World Bank/etc.] > [TOP ANALYSTS]. Prefer originals; avoid PR/blogs.\nMethod: Use date filters. For each figure include value, unit, year/period, source title/org, pub date, URL. If conflicts, show both, explain, and choose. Add ≤25-word quotes w/ page.\nOutputs: 10-bullet summary; assumptions/definitions; gaps/risks + next steps.\nGuardrails: Only citable info. Show publication date vs data period. Label forecasts. No invented numbers.\"\n\nTo replace a consultant, I wrote a blog on \"How AI is eating up consultants\" at https://lnkd.in/gyHZNrv2.",
+  "word_count": 192,
+  "metrics": {
+    "total_reactions": 495,
+    "likes": 430,
+    "love": 22,
+    "insight": 33,
+    "celebrate": 4,
+    "support": 5,
+    "funny": 1,
+    "comments": 102,
+    "reposts": 20
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "how_to_optimise_your_linkedin_with_chatgpt",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-08-09",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "How to optimise your LinkedIn (with ChatGPT)\n\n𝗖𝗼𝗽𝘆 𝗽𝗮𝘀𝘁𝗲 𝗺𝘆 𝗽𝗿𝗼𝗺𝗽𝘁:\n\nAct like a LinkedIn profile-optimization strategist.\n\nObjective  \n\nYou will review my current LinkedIn profile (screenshot + any text snippets I provide) and produce a comprehensive, section-by-section optimization roadmap that maximizes recruiter interest, boosts keyword ranking in search, and projects a cohesive personal brand.\n\nGuidelines  \n\n- When rewriting text, first paste the existing text for context, then add a line that says `Recommended Copy:` followed by your improved version.  \n- Flag knowledge gaps under `Missing Data — Please Provide:`.  \n- Supply power keywords aligned with {{INSERT INDUSTRY}} and target roles {{INSERT TARGET ROLE/TITLE}}.  \n- End each section with a `Quick-Win Checklist` of 3-5 actions I can implement immediately.  \n- Before writing any output, silently map out your reasoning; do not reveal those internal notes.\n\nStep-by-step workflow  \n\n1. Diagnostic Overview  \n  - Summarize first impressions of brand consistency, tone, and positioning.  \n  - List the top five gaps undermining recruiter engagement.\n\n2. Headline  \n  - Evaluate current headline for clarity, keyword richness, and value proposition.  \n  - Provide three alternative headlines (≤ 220 chars each) that emphasize outcomes.\n\n3. About / Summary  \n  - Note current strengths and weaknesses.  \n  - Rewrite as a concise narrative (≤ 2 000 chars) incorporating: signature quantified achievement, core competencies (comma-separated), and a clear call to action.\n\n4. Experience  \n  - For every role: flag missing metrics (scope, budget, team size, KPIs).  \n  - Deliver an impact-oriented bullet set (max 5 bullets) in Action → Task → Result format.  \n  - Suggest re-ordering roles if relevance outweighs strict chronology.\n\n5. Skills & Endorsements  \n  - Recommend the 50 recruiter-searched skills for {{INSERT INDUSTRY}}.  \n  - Flag redundant or low-value skills to remove.  \n\n6. Recommendations  \n  - Identify high-leverage recommenders (managers, clients, peers).  \n  - Provide a concise outreach template and a two-paragraph sample recommendation.\n\n7. Additional Profile Assets  \n  - Banner concept (1584 × 396).  \n  - Featured section ideas: top post, media, portfolio link.  \n  - Volunteer work, publications, certifications worth adding.\n\n8. Competitive Benchmarks  \n  - List three exemplary LinkedIn profiles in {{INSERT INDUSTRY}} with brief bullets on what they do exceptionally well.\n\n9. Networking & Content Strategy  \n  - Propose a 30-day posting calendar (one topic + hook each week).  \n  - Suggest five niche LinkedIn Groups and ten influencers to engage with.\n\nTake a deep breath and work on this step-by-step.\n___\n\nTo make it work:\n☑ Share as much context as possible.\n☑ Choose \"Think\" model of ChatGPT-5.\n☑ Debate with ChatGPT, asking follow-ups.",
+  "word_count": 405,
+  "metrics": {
+    "total_reactions": 1374,
+    "likes": 1144,
+    "love": 70,
+    "insight": 133,
+    "celebrate": 19,
+    "support": 6,
+    "funny": 2,
+    "comments": 199,
+    "reposts": 125
+  }
+}

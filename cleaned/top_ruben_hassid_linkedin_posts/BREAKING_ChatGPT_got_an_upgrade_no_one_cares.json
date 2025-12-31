@@ -1,0 +1,20 @@
+{
+  "id": "breaking_chatgpt_got_an_upgrade_no_one_cares",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-12-12",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "BREAKING: ChatGPT got an upgrade & no one cares.\n\nBut 5.2 is the biggest release of the year:\n\n✦ Jump from 38% to 74% on knowledge work tasks.\n✦ Context window now absorbs 700 pages of PDFs.\n✦ The hallucination rate went from 8.8% to 6.2%.\n✦ Its vision is nearly as good as a human's (88%).\n\nTL:DR - it's not the same league as the previous 5.1.\n\nI am writing a full guide this Sunday (how-to-ai.guide).\n\nTo test it, here are my top 3 prompts:\n\nPrompt: Make a *real* Excel file.\n\n\"Build an Excel workbook (.xlsx) from the assumptions below.\n\nTabs:\n1) Inputs (assumptions + 3 scenarios: Base/Downside/Upside)\n2) Model (monthly for 12 months)\n3) Dashboard (3 charts + 6 KPIs)\n\nAssumptions:\n- Starting revenue: $120,000 MRR\n- Growth: Base 8% MoM, Downside 4%, Upside 12%\n- Churn: Base 3% MoM, Downside 5%, Upside 2%\n- CAC: $35 per new subscriber\n- ARPU: $6/mo\n- Fixed costs: $45,000/mo\n- Variable costs: 6% of revenue\n\nRules:\n- No hard-coded numbers outside Inputs.\n- Show formulas clearly.\n- Output the .xlsx file.\"\n\n---\n\nPrompt: Paste a long doc. Catch contradictions.\n\n\"I’m going to paste a long document.\n\nYour job:\n1) Extract a 12-bullet factual summary. Each bullet must include an exact quote + where it came from (section heading or nearby text).\n2) List contradictions or unclear claims (at least 8). For each: quote both sides.\n3) Make a decision memo:\n  - What we know (facts only)\n  - What we don’t know (explicitly)\n  - Risks (top 5)\n  - Next actions (top 7, owner + deadline placeholders)\n\nRules:\n- If a detail is missing, write “Not stated”.\n- Do not guess.\nReady? Say: “Paste it.”\"\n\n---\n\nPrompt: Upload a screenshot. Tell me what’s wrong.\n\n\"I will upload ONE screenshot of a dashboard, analytics page, or UI.\n\nDo this:\n1) Tell me what I’m looking at in 2 sentences.\n2) Extract the 10 most important numbers/labels you can read (verbatim).\n3) Diagnose 3 likely issues or opportunities (ranked).\n4) Give a 7-step click-by-click plan for what to check next.\n5) Write a 5-line Slack update I can send to my team.\n\nRules:\n- Only use what you can see. If unreadable, say “Can’t read”.\n- Ask up to 3 clarifying questions only if truly needed.\"\n\n---\n\nI don't see any post on LinkedIn about GPT 5.2. \n\nIt's almost as if people are done with new releases. \n\nAnd I get it. \n\nBut this time it's different. I would even go so far as to say GPT-6 will be a version of GPT-5.2, but faster. \n\nIf you want to see more tests from me, consider  It helps keep my content free. \n\nP.S. To not miss my next post, follow Ruben.",
+  "word_count": 455,
+  "metrics": {
+    "total_reactions": 632,
+    "likes": 529,
+    "love": 24,
+    "insight": 61,
+    "celebrate": 11,
+    "support": 7,
+    "funny": 0,
+    "comments": 243,
+    "reposts": 44
+  }
+}

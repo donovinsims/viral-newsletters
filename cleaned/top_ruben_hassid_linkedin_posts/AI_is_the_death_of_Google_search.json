@@ -1,0 +1,20 @@
+{
+  "id": "ai_is_the_death_of_google_search",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-06-17",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "AI is the death of Google (search).\n\nHere's the why + the remedy:\n\n1/ Google search is dying – the data\n\n☑ 58.5 % of U.S. Google queries ended without a click in 2024 (SparkToro)(searchengineland)\n\n☑ Google’s AI Overview now shows on 11 % of queries (up 22 % YoY) and chops click-through by ~30 % (BrightEdge) (thelettertwo)\n\n☑ Only one in five visits to the world’s top-100 sites now starts on a search engine (Semrush) (barrons)\n\n☑ New York Times share of Google traffic slid to 36.5 % in April 2025 (44 % in 2022). (wsj)\n\n☑ Business Insider’s search traffic is down 55 % vs 2022; it cut 21 % of staff on 29 May 2025. (wsj, reuters)\n\n☑ Chegg trades 98 % below its 2021 peak, erasing $14.5 B in value. (indianexpress)\n\n____\n\n2/ When search dies, AI wins.\n\n☑ ChatGPT hit 500M weekly active users and a $10 B revenue run-rate in March 2025. (ft)\n\n☑ Perplexity logged 780M queries in May 2025, 22M active users, and is raising at a $14 B valuation. (techcrunch, reuters)\n\n____\n\n3/ Stay relevant with LLMs (like ChatGPT) – how?\n\nStep 1: Download the CSV of your Google Analytics.\nStep 2: Upload it on ChatGPT with this prompt:\n\nPrompt: \"Act like SeniorTrafficAnalyst.  \nWhen I paste a Google-Analytics CSV:  \n1. Parse it.  \n2. For each URL show visits, % google/organic, % other search, % direct.  \n3. Mark any URL with google/organic >40 % as RISK.  \n4. Finish with a 100-word brief on the top three structural risks.  \nReturn plain-text lines, TAB-separated, then the brief.  \nThink step-by-step.\"\n\nStep 3: Rewrite needed articles, or add new ones.\n\nSome tools are doing SEO for LLMs. I like PromptWatch. But they have (many) competitors.\n\n____\n\n4/ Search better without Google – how\n\nAn example with lithium-ion thermal runaway.\n\n1. Perplexity → “Summarise in 6 bullets the causes of lithium-ion thermal runaway; cite sources.”  \n\n2. ChatGPT (browse on) → “Critique this answer; fact-check each bullet; add two missing insights.”  \n\n3. Kagi → lithium \"thermal runaway\" filetype:pdf published:>2019 !reddit !quora \n\n4. Then paste top PDF into ChatGPT → “Extract experiment setup + numeric results only.”  \n\n5. Or you can skip the 4 previous steps and go straight to \"Deep Research\" from ChatGPT.\n\n____\n\nSearch isn't (really) dying. It's shifting. Are you?",
+  "word_count": 384,
+  "metrics": {
+    "total_reactions": 769,
+    "likes": 608,
+    "love": 47,
+    "insight": 95,
+    "celebrate": 10,
+    "support": 8,
+    "funny": 1,
+    "comments": 354,
+    "reposts": 46
+  }
+}

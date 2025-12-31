@@ -1,0 +1,20 @@
+{
+  "id": "you_write_bad_prompts_on_chatgpt",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-08-09",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "You write bad prompts on ChatGPT.\n\nYou forgot 2 words, changing everything:\n\n\"Think deeply.\"\n\nBut if you did, you still probably commit the 7 deadly sins of prompt engineering:\n\n1. No context (\"Analyze this\" with zero background)\n2. Vague instructions (\"Write about marketing\") \n3. Treating it like Google (questions vs prompts)\n4. Asking for everything at once (20 tasks in one)\n5. Not iterating (one prompt and done)\n6. Forgetting to specify format/tone\n7. No examples of what you want\n\nThe best prompt follows this rule:\n\n☑ [Here's what I need, and who you must be to do it]\n+ [Here's one/ more good examples of what I want]\n+ [After your first draft, I will tell why it's bad/good]\n\nIn other words:\n1. Role + Specific guidelines\n2. Example(s) of past good outputs\n3. Iterations from your own judgment\n\nThis is \"AI + Human\". Not \"AI instead of Human\".\n\nI wrote a blog on ChatGPT-5 (is it really better?).\n\nTo access it, go to: https://lnkd.in/gVx_ZPh3",
+  "word_count": 166,
+  "metrics": {
+    "total_reactions": 637,
+    "likes": 542,
+    "love": 38,
+    "insight": 31,
+    "celebrate": 10,
+    "support": 7,
+    "funny": 9,
+    "comments": 157,
+    "reposts": 13
+  }
+}

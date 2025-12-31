@@ -1,0 +1,20 @@
+{
+  "id": "people_will_get_mad_at_me",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-12-25",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "People will get mad at me.\n\nBut here's how to vibecode a $1,000/mo app:\n\n(save this for later, I'm sharing every AI prompt)\n\n1. Grok to search (1) Reddit & (2) X users' pains.\n2. Blink.new to go from pain → operational app.\n3. Claude to go from app → viral Linkedin posts. \n4. Linkedin for users. I explain the maths at the end.\n\n---\n\n1. Grok to search (1) Reddit & (2) X users' pains.\n\nWhy Grok: it's the best AI to search. Better than ChatGPT or Gemini. The only one to access tweets.\n\n☑ A good app solves people's pain points. \n☑ Ideally, just one pain point for one ICP.\n☑ Copy and paste this prompt on Grok:\n\nPrompt: \n\"Act like an expert market researcher specializing in user pain points from social media. Uncover frequent frustrations, complaints, and unmet needs about: [PROBLEM]\n\nFocus on recent authentic user posts on X (Twitter) and Reddit. Ignore ads.\n\nStep-by-step process:\n\n1. Search X deeply:\n  - Use x_semantic_search for complaint-focused queries (e.g., \"frustrations with [PROBLEM]\").\n  - Use x_keyword_search with negative terms.\n\n2. Search Reddit deeply:\n  - Use web_search site:reddit.com with: \"[PROBLEM].\n  - For top 5-8 relevant threads, use browse_page: \"Extract OP and top comments. Focus on complaints and quotes.\"\n\nOnly include well-supported pain points.\"\n\n---\n\n2. Blink.new to go from pain → operational app.\n\n☑ Use your pain learnings to vibecode an app.\n☑ Vibecoding = building an app without coding.\n☑ Think ChatGPT, but to build app (with prompts).\n\nUse this prompt: \n\"Build a mobile-responsive full-stack web app that solves this problem: [PROBLEM]\n\n[PAIN POINTS ANALYSIS]\nPaste the full pain points research output here (summary, top pains with quotes, opportunities).\n\nValue prop: [ADD IT HERE]\n\nKey features (directly solve pains):\n- Auth: Email + Google/Apple login.\n- Payment: Stripe\n- ...\n\nUI vibe: [DESCRIBE IT]\n\nMake it fully functional, production-ready with error handling and responsive design.\"\n\nWhy Blink: it's the best at this & they are partners.\n\nI made a guide here:\n↳ https://lnkd.in/dchBme3n.\n\n---\n\n3. Claude to go from app → viral Linkedin posts. \n\n☑ Claude is the best at writing among LLMs.\n☑ Use Projects + Custom style to teach your style.\n☑ Made a guide: https://lnkd.in/e87Kdy5Z. \n\nHere's a prompt example: \n\"These are my most viral hooks (2 lines in one hook) on Linkedin, ever. Let's try to recreate it but differently in the new topic (new topic: [your caption draft]): \n///Hook 1 [VIRAL HOOK] \n///Hook 2 [VIRAL HOOK] \n///Hook 3 [VIRAL HOOK] \n///Hook 4 [VIRAL HOOK]\"\n\n---\n\n4. Linkedin for users. I explain the maths at the end.\n\n1x post a day\n= 5 conversations a day\n= 150 conversations a month\n\nIf you solve a $200/year problem (at 3% CVR):\n\n150 conversations a month\n= 1,800 conversations a year\n= 54 paying customers at $200/year\n= $10,800 a year = $900 a month\n\nLinkedin is easy.\n\nAnd if you feel like I'm lying, check this:\n↳ https://lnkd.in/eifHDEGu.",
+  "word_count": 490,
+  "metrics": {
+    "total_reactions": 1071,
+    "likes": 919,
+    "love": 38,
+    "insight": 84,
+    "celebrate": 20,
+    "support": 5,
+    "funny": 5,
+    "comments": 168,
+    "reposts": 101
+  }
+}

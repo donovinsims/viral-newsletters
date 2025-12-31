@@ -1,0 +1,20 @@
+{
+  "id": "context_engineering_is_the_new_prompting",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-07-16",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "Context engineering is the new prompting.\n \n Save this framework to test it:\n\n→ Role: Define what the model should do.\n→ Objective: State the goal of the interaction.\n→ Context Package: Include all relevant context.\n→ Workflow: Outline the process to follow.\n→ Context Handling-Rules: Set rules.\n→ Output Format: Specify the answer format. \n→ First Action: Describe the model’s first step.\n\nLLMs perform best with rich context; the more you provide, the better their answers.\n\nIt's all about \"context engineering\" more than \"prompt engineering\". I wrote a free blog about it how to master it: https://lnkd.in/dDfJK_Mp.\n\nPS: I share how I master AI with words, not code, on my blog \"how-to-ai.guide\". Unsubscribe anytime.",
+  "word_count": 114,
+  "metrics": {
+    "total_reactions": 1378,
+    "likes": 1213,
+    "love": 54,
+    "insight": 92,
+    "celebrate": 17,
+    "support": 2,
+    "funny": 0,
+    "comments": 331,
+    "reposts": 119
+  }
+}

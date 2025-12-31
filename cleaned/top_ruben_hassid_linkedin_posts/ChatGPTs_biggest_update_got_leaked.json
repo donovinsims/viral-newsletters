@@ -1,0 +1,20 @@
+{
+  "id": "chatgpts_biggest_update_got_leaked",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-10-06",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "ChatGPT's biggest update got leaked.\n\nTomorrow, they will announce automation:\n\n✦ It seems to be right using the API (not ChatGPT).\n✦ I'm guessing it's a mix of Zapier, n8n, or Make.\n✦ You can read \"Agent Builder\" or \"Workflow\".\n\nPS: once it's live, I'll make a full guide on how-to-ai.guide. It's my newsletter, read by 132,000 people.\n\nHere is all of the (trusted) information I gathered:\n\n— The no-code AI era starts now —\n\n✓ Drag-and-drop visual canvas for building agents.\n✓ Templates for customer support, data, etc.\n✓ Native OpenAI model access, including GPT-5.\n✓ Full integration with external tools and services.\n\nBut there was always a wall: coding.\n\nNow, anyone can build advanced AI agents. No code. No friction. Here’s how it (seems to) work:\n\nYou want to automate customer support:\n\n1. Pick a template for a support bot.\n\nBut you need it to pull info from your database.\n\n2. Drag in an MCP connector. Link your data.\n\nYou want human approval for refunds.\n\n3. Add a user approval step. Set the rules.\n\nYou want to check documents for fraud.\n\n4. Drop in a file search and comparison node.\n\nTest it. Preview it. Deploy it. All in one place.\n\nOpenAI is more than just an API company. It is building the backbone for the no-code AI economy.\n\nNow, anyone can create agents that work across systems, talk to users, and make decisions.\n\nThe age of visual AI automation is here.",
+  "word_count": 243,
+  "metrics": {
+    "total_reactions": 1551,
+    "likes": 1261,
+    "love": 78,
+    "insight": 169,
+    "celebrate": 30,
+    "support": 11,
+    "funny": 2,
+    "comments": 396,
+    "reposts": 212
+  }
+}

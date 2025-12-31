@@ -1,0 +1,20 @@
+{
+  "id": "after_1000_hours_of_prompt_engineering_these_6_patterns_work",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-10-10",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "After 1,000 hours of prompt engineering, these 6 patterns work best. Here's the framework:\n\n---\n\n✦ I saw it here: https://lnkd.in/dj8Ax6BT.\n✦ I tested it, and it's quite effective!\n✦ I wrote numerous blogs on prompt engineering.\n✦ 7 Sins of prompting: https://lnkd.in/duP3Za5W.\n✦ What do people prompt: https://lnkd.in/dGYgcQ_7.\n✦ How to search: https://lnkd.in/dxzSBEjW.\n✦ ChatGPT-5: https://lnkd.in/gVx_ZPh3.\n\n---\n\nK - Keep it simple\n\nBad: 500 words of context\n\nGood: One clear goal\n\nExample: Instead of \"I need help writing something about Redis,\" use \"Write a technical tutorial on Redis caching\"\n\nResult: 70% less token usage, 3x faster responses\n\nE - Easy to verify\n\nYour prompt needs clear success criteria\n\nReplace \"make it engaging\" with \"include 3 code examples\"\n\nIf you can't verify success, AI can't deliver it\n\nMy testing: 85% success rate with clear criteria vs 41% without\n\nR - Reproducible results\n\nAvoid temporal references (\"current trends\", \"latest best practices\")\n\nUse specific versions and exact requirements\n\nSame prompt should work next week, next month\n\n94% consistency across 30 days in my tests\n\nN - Narrow scope\n\nOne prompt = one goal\n\nDon't combine code + docs + tests in one request\n\nSplit complex tasks\n\nSingle-goal prompts: 89% satisfaction vs 41% for multi-goal\n\nE - Explicit constraints\n\nTell AI what NOT to do\n\n\"Python code\" → \"Python code. No external libraries. No functions over 20 lines.\"\n\nConstraints reduce unwanted outputs by 91%\n\nL - Logical structure Format every prompt like:\n\nContext (input)\n\nTask (function)\n\nConstraints (parameters)\n\nFormat (output)\n\nReal example from my work last week:\n\nBefore KERNEL: \"Help me write a script to process some data files and make them more efficient\"\n\nResult: 200 lines of generic, unusable code\n\nAfter KERNEL:\n\nTask: Python script to merge CSVs\nInput: Multiple CSVs, same columns\nConstraints: Pandas only, <50 lines\nOutput: Single merged.csv\nVerify: Run on test_data/\nResult: 37 lines, worked on first try\n\nActual metrics from applying KERNEL to 1000 prompts:\n\nFirst-try success: 72% → 94%\n\nTime to useful result: -67%\n\nToken usage: -58%\n\nAccuracy improvement: +340%\n\nRevisions needed: 3.2 → 0.4\n\nAdvanced tip: Chain multiple KERNEL prompts instead of writing complex ones. Each prompt does one thing well, feeds into the next.\n\nThe best part? This works consistently across GPT-5, Claude, Gemini, even Llama. It's model-agnostic.",
+  "word_count": 374,
+  "metrics": {
+    "total_reactions": 1314,
+    "likes": 1112,
+    "love": 54,
+    "insight": 107,
+    "celebrate": 30,
+    "support": 10,
+    "funny": 1,
+    "comments": 180,
+    "reposts": 114
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "stop_writing_act_as_an_expert_its_a_terrible_prompt",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-06-11",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "Stop writing ‘act as an expert.’ It’s a terrible prompt.\n\nAsk this to ChatGPT instead:\n\nGive it a clear persona that matches your task.\n\nBecause most people write prompts like this:\n\n→ Act as an expert marketer\n→ Act as a software engineer\n→ Act as a business consultant\n\n... and then wonder why the output feels generic. \n\nThat’s because you gave the model a generic role. \n↳ So it gives you generic content.\n\nThe fix? Be specific.\nHere’s how to upgrade your prompts:\n\n❌ Act as an expert marketer\n✅ Act as a conversion psychologist who crafts landing pages that trigger buyer emotions.\n\n❌ Act as a software engineer\n✅ Act as a backend engineer optimizing high-load APIs for a fintech platform.\n\n❌ Act as a data analyst\n✅ Act as a storytelling analyst, turning retention metrics into board-ready slides.",
+  "word_count": 141,
+  "metrics": {
+    "total_reactions": 1458,
+    "likes": 1177,
+    "love": 88,
+    "insight": 152,
+    "celebrate": 30,
+    "support": 11,
+    "funny": 0,
+    "comments": 388,
+    "reposts": 107
+  }
+}

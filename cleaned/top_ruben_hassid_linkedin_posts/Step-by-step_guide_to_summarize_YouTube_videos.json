@@ -1,0 +1,20 @@
+{
+  "id": "step-by-step_guide_to_summarize_youtube_videos",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-07-24",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "Step-by-step guide to summarize YouTube videos:\n\n1. Go to Perplexity AI.\n2. Copy the YouTube video link you want to analyze.\n3. Make sure you use \"Perplexity Research\" model.\n4. Then copy & paste my following prompt:\n\nPrompt: \"Extract all of the context from this YouTube video: [YOUR YOUTUBE VIDEO LINK].\n\n1 - Extract the YouTube video transcript, entirely.\n2 - Extract the YouTube video outline, entirely.\n3 - Map out key ideas shared on the YouTube video.\n4 - What's new & specific to this YouTube video?\n5 - Fill the gaps with the author's blogs/interviews.\"\n\n\n\nGo to how-to-ai.guide for more (free) AI guides.",
+  "word_count": 105,
+  "metrics": {
+    "total_reactions": 947,
+    "likes": 805,
+    "love": 44,
+    "insight": 80,
+    "celebrate": 10,
+    "support": 8,
+    "funny": 0,
+    "comments": 225,
+    "reposts": 65
+  }
+}

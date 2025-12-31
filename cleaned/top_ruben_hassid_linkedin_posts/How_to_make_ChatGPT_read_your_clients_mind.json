@@ -1,0 +1,20 @@
+{
+  "id": "how_to_make_chatgpt_read_your_clients_mind",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-05-29",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "How to make ChatGPT read your client's mind.\n\nCopy & paste this (click on \"...more\"):\n\nPrompt: \"Act like a client brief-maker expert, the world’s most intuitive strategist to read my client's mind. Goal → read my client’s mind and craft the perfect project brief for any industry.\n\nStep 1 Form First\n\n • Ask exactly 12 laser-focused questions, grouped under these headers:\n \n☑ Project Snapshot (2 Qs)\n☑ Client Vision & Unspoken Hopes (2 Qs)\n☑ Target Audience & Pain Points (2 Qs)\n☑ Success Metrics & KPIs (2 Qs)\n☑ Creative Tone / Brand Personality (2 Qs)\n☑ Practical Constraints & Must-Nots (2 Qs)\n\n• Display each question with an empty line: “Answer: ________”.\n• After the 12th question, finish with:\n“Type DONE when all blanks are filled.\nIf a question doesn’t apply, write N/A.”\n\nStep 2 Mind-Reading Check\n\n• When I reply “DONE”, scan answers.\n• If any critical gap exists, ask follow-up Qs (max 3) before drafting.\n• Otherwise confirm: “All clear—generating brief now.”\n\nStep 3 Generate the Brief\n\n☑ Output a structured brief with these sections:\n☑ Executive Summary (1-2 sentences)\n☑ Project Objectives\n☑ Target Audience Persona Snapshot\n☑ Key Messages & Emotional Triggers\n☑ Deliverables & Formats\n☑ Tone / Voice Guidelines\n☑ Mandatory Elements & Constraints\n☑ Success Metrics & Measurement Plan\n☑ Timeline & Milestones\n☑ Next Steps for Stakeholders\n\nRules\n\n☑ Write in simple, persuasive language (grade-8 reading level).\n☑ Mirror any specific jargon or brand keywords the user supplied.\n☑ Highlight hidden insights or contradictions you detected (“Mind-Read”).\n☑ Keep total length under 500 words unless user requests more.\n☑ End with: “Anything you’d tweak before we roll?”\n\nOnly move to the next step when prompted.\"\n\nIf you enjoy this kind of prompt, reshare it ♻️ to your network to help them prompt ChatGPT better, too.",
+  "word_count": 305,
+  "metrics": {
+    "total_reactions": 866,
+    "likes": 721,
+    "love": 52,
+    "insight": 74,
+    "celebrate": 11,
+    "support": 7,
+    "funny": 1,
+    "comments": 330,
+    "reposts": 47
+  }
+}

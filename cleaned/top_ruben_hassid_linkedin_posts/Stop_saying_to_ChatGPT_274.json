@@ -1,0 +1,20 @@
+{
+  "id": "stop_saying_to_chatgpt",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-11-10",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "Stop saying “𝗗𝗼𝗻'𝘁 𝘂𝘀𝗲 𝗲𝗺 𝗱𝗮𝘀𝗵𝗲𝘀” to ChatGPT.\n\nUse this one prompt to fix it instead:\n\n(taken from this guide: https://lnkd.in/gXEupiXP)\n\nStep 1: Open ChatGPT\nStep 2: Go to “Personalization” (bottom left).\nStep 3: Find “Custom Instructions”\nStep 4: Add this specific prompt:\n\n\"Systematically replace em-dashes (“—”) with a dot (”.”) to start a new sentence, or a comma (”,”) to continue the sentence.\"\n\n- - -\n\n\n\n- - -\n\n✦ Train AI on YouTube: https://lnkd.in/dMcU-Cn6 \n✦ Remove emdashes: https://lnkd.in/dCjcTz_A\n✦ How to set up ChatGPT: https://lnkd.in/dA3FGZjc\n✦ 0 → 10,000 followers: https://lnkd.in/dP_6piGk\n✦ Prompt ChatGPT-5: https://lnkd.in/gVx_ZPh3\n✦ Start with AI: https://lnkd.in/d2BQW-w6",
+  "word_count": 102,
+  "metrics": {
+    "total_reactions": 737,
+    "likes": 617,
+    "love": 40,
+    "insight": 51,
+    "celebrate": 14,
+    "support": 10,
+    "funny": 5,
+    "comments": 229,
+    "reposts": 36
+  }
+}

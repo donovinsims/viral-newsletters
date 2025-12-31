@@ -1,0 +1,16 @@
+{
+  "id": "how_to_build_cold_outreach_sequences_that_drive_sales_with_c",
+  "source": "twitter",
+  "author": "EXM7777",
+  "date": "2025-12-21",
+  "url": "https://x.com/EXM7777/status/2002785391615865046",
+  "text": "how to build cold outreach sequences that drive sales with claude:\n\nstep 1: scrape real prospect data with apify MCP\n\nconnect apify to claude and scrape:\n- linkedin profiles of your ICP (job titles, company info, activity)\n- company websites to understand their positioning\n- job postings showing what problems they're hiring to solve\n- social media posts revealing current priorities\n\nfeed 100+ prospect profiles into claude for pattern analysis\n\nstep 2: deep research your ICP's actual language\n\nnow claude analyzes the scraped data to extract:\n> exact phrases they use to describe their challenges\n> pain points that show up repeatedly across profiles\n> buying signals (recent funding, new hires, tech stack changes)\n> psychological triggers based on their content and activity\n\nthis is the gold most people skip\n\nstep 3: map the sequence psychology\n\ndon't write yet\n\ndesign the mental journey based on research:\n- email 1: lead with THEIR specific pain (from scraped language)\n- email 2: show you understand their world (reference their actual context)\n- email 3: address the objection pattern you found in research\n- email 4: prove it with examples matching their company profile\n- email 5: make responding frictionless\n\nstep 4: collab with claude to write the full sequence\n\nnow give claude:\n- the scraped prospect language and patterns\n- ICP pain points extracted from real profiles\n- your winning customer playbook\n- the psychological sequence map\n\nwhen claude drafts, it's writing emails backed by actual prospect research that your competitors are too lazy to do\n\nthat's why these sequences book meetings",
+  "word_count": 260,
+  "metrics": {
+    "likes": 210,
+    "retweets": 8,
+    "replies": 20,
+    "views": 12874,
+    "engagement_rate": 1.85
+  }
+}

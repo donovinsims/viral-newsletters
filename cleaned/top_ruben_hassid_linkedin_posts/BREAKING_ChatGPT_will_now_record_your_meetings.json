@@ -1,0 +1,20 @@
+{
+  "id": "breaking_chatgpt_will_now_record_your_meetings",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-06-05",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "BREAKING: ChatGPT will now record your meetings.\n\n+ connect to this entire list of apps:\n\n☑ Teams: record and transcribe meetings, then spit out timestamped notes and action items.\n\n☑ Google Drive: search Docs, Sheets, and Slides on the fly to answer questions or build reports.\n\n☑ SharePoint: pull internal wikis and policies into deep research for instant citations.\n\n☑ OneDrive: browse personal or shared files for summaries and quick comparisons.\n\n☑ Dropbox: query PDFs, images, or zips stored in your workspace and get concise digests.\n\n☑ Box: fetch decks, contracts, or spreadsheets and highlight the key points.\n\n☑ Outlook: draft, translate, or summarize emails straight from your inbox.\n\n☑ Gmail: auto-compose replies, classify messages, or surface threads you missed.\n\n☑ Google Calendar: check availability, propose slots, or schedule events in natural language.\n\n☑ Linear: scan tickets, update statuses, and outline sprint summaries in seconds.\n\n☑ GitHub: read live code, issues, and PRs to explain functions or flag bugs.\n\n☑ HubSpot: surface deal pipelines, segment leads, and draft outreach sequences.\n\nHow to access it:\n\n* Admins enable connectors in Settings → Connectors; access each app’s existing permissions.\n\n* Meeting recording is macOS-app only for now; other platforms are “coming soon.”\n\n* Deep research queries are capped per plan—25/month for Plus, 250 for Pro.\n\n* Expect more apps shortly.\n\nChatGPT and AI just accelerated (even more).",
+  "word_count": 225,
+  "metrics": {
+    "total_reactions": 1496,
+    "likes": 1226,
+    "love": 92,
+    "insight": 133,
+    "celebrate": 29,
+    "support": 12,
+    "funny": 4,
+    "comments": 443,
+    "reposts": 87
+  }
+}

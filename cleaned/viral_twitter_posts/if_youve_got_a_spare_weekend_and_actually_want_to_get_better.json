@@ -1,0 +1,16 @@
+{
+  "id": "if_youve_got_a_spare_weekend_and_actually_want_to_get_better",
+  "source": "twitter",
+  "author": "EXM7777",
+  "date": "2025-11-21",
+  "url": "https://x.com/EXM7777/status/1991892364693213657",
+  "text": "if you've got a spare weekend and actually want to get better with LLMs...\n\nbuild these three projects:\n\n1. your own \"benchmarking\" toolkit\n- not those fancy dev tools, just prompts + systems + messy projects with tons of files\n- run each new model through YOUR actual work\n- you'll know within 15 minutes if it's worth switching\n- saves 3 hours of reading other people's reviews that don't match your use case\n\n2. a mini-saas for each repetitive task\n- go into cursor/lovable, build something embarrassingly simple\n- host it for $2/month, just for you, who cares about \"security\"\n- the goal is just to stop doing the same boring task manually\n\n3. an AI assets library in notion\n- prompts, context files, MCPs, random github repos you might need\n- sort them, make it easy to find\n- when you need that one weird prompt at 3am, you'll find it in 30 seconds\n\nthese feel like side projects but it's actually the start of a decent infrastructure",
+  "word_count": 170,
+  "metrics": {
+    "likes": 272,
+    "retweets": 11,
+    "replies": 15,
+    "views": 16739,
+    "engagement_rate": 1.78
+  }
+}

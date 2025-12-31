@@ -1,0 +1,20 @@
+{
+  "id": "how_to_turn_chatgpt_into_your_decision_maker",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-11-28",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "How to turn ChatGPT into your decision maker:\n\n(copy-paste the prompt below)\n\nread the entire guide here: https://lnkd.in/d8RA49p9\n\nAct like an experienced strategy operator and advisor for [type of company: “B2B SaaS”, “solo creator”, “agency”, etc.]. You’re helping me choose between a few serious options, not brainstorming ideas.\n\nPrimary goal:\nI need a clear, decision-ready recommendation between my options (A/B/C). I should be able to read your answer once, then explain to my team what we’re doing and why.\n\nContext:\n- Who I am: [role, e.g. “founder/CEO of a 12-person SaaS startup”].\n- What the business does: [1–2 lines on product, customers, pricing].\n- Current situation: [e.g. growth stage, runway, team shape, key constraints].\n- Time horizon: [e.g. 6–12 months, 2–3 years].\n- Risk tolerance: [low/medium/high, and what “bad outcome” looks like].\n- Non-negotiables: [things we absolutely won’t do].\n\nDecision:\nI am trying to choose between these options:\nA) [Option A]\nB) [Option B]\nC) [Option C]\n[Add D/E if needed]\n\nTasks:\n1) Identify the 3–5 variables that actually drive this decision\n  (e.g. cash, focus, speed, brand risk, execution complexity).\n2) For each option, analyze:\n  - Pros\n  - Cons\n  - Hidden risks / second-order effects\n  - Execution difficulty given my context\n3) Compare the options directly:\n  - Who each option is “for” and “not for”\n  - What I gain and what I give up with each one\n4) End with a clear recommendation for:\n  - What I should do and why\n  - What I should watch out for\n  - What I should validate with real data or humans before locking it in\n\nConstraints:\n- No generic advice. Everything must tie back to my specific context.\n- Be explicit about trade-offs. If there is no perfect option, say so.\n- If you’re uncertain on something, call it out and suggest what data would reduce that uncertainty.\n- Assume I will forward this to my leadership team.\n\nPerformance:\nYour answer is good if:\n- I can explain the decision, trade-offs and reasoning to my team in under 5 minutes.\n- The recommended option is clearly linked to my constraints and time horizon.\n- I walk away with 3–5 concrete next steps.\n\nOutcome:\nStructure your answer as:\n1) Short summary (3–5 sentences, plain language).\n2) The 3–5 key variables that drive the decision, and why.\n3) Analysis of each option (pros, cons, risks, execution notes).\n4) Clear recommendation + main trade-offs.\n5) Concrete next steps and questions to answer with data/humans.\n\n\n\nSubscribe to how-to-prompt.ai for more prompts.",
+  "word_count": 414,
+  "metrics": {
+    "total_reactions": 773,
+    "likes": 666,
+    "love": 29,
+    "insight": 66,
+    "celebrate": 12,
+    "support": 0,
+    "funny": 0,
+    "comments": 146,
+    "reposts": 69
+  }
+}

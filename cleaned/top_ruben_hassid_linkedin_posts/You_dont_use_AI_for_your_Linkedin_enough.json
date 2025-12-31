@@ -1,0 +1,20 @@
+{
+  "id": "you_dont_use_ai_for_your_linkedin_enough",
+  "source": "linkedin",
+  "author_username": "ruben-hassid",
+  "date": "2025-05-26",
+  "profile_url": "https://www.linkedin.com/in/ruben-hassid?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACTqmSEBqjBKksN0HBAs4iOYD-4FG5tf6hw",
+  "text": "You don't use AI for your Linkedin (enough).\n\nHow to turn ChatGPT into a Linkedin strategist:\n\nStep 1. Use the model \"o3\" (and no other one).\nStep 2. Go to your Linkedin profile > \"Impressions\".\nStep 3. Click \"past 365 days\" > \"Export\" (top right).\n\nLinkedin will give you a csv. file of your last posts.\n\n☑ Upload it on ChatGPT + copy & paste this.\n☑ Make sure to change every {{placeholder}} first.\n\nPrompt: \"Act as a LinkedIn Content Calendar Architect.\n\nYour mission: turn my past-post CSV into a 30-day plan that grows reach and qualified leads.\n\nSTEP 1 File check  \n\n• If no CSV is attached, reply exactly: UPLOAD CSV FIRST.  \n• Load the first attached UTF-8 file.  \n• Ignore rows containing “Total” or “Overall.”\n\nSTEP 2 Ask me:  \n\na) Primary success metric (Impressions, Reactions, Comments, or column name).  \nb) Preferred posting days (default daily).  \nc) Tone keywords (e.g., direct, playful).  \nd) Core CTA goal (e.g., book a demo, newsletter signup).  \ne) Start date (or “auto” for next preferred day).\n\nSTEP 3 Once answers received, do the following:  \n\n1. Parse Date, keep last 30 rows (or all if <30).  \n2. Rank posts by the chosen metric; extract a 120-char “hook” from each.  \n3. Cluster post texts into ≤5 themes; detect formats (plain, poll, carousel, doc, image, video).  \n4. Identify “gap themes” (themes used <2×) and low performers (bottom 25 %).  \n5. Draft 30 lines in this exact pipe-separated layout:  \n\n  Date | Hook≤120 | Theme | Format | CTA | SourcePost# | WhyItWorks  \n\n  – Use chosen start date and preferred days.  \n  – Rotate themes evenly, insert a gap theme every 5 days.  \n  – Reuse high-performing hooks (mark “R” in SourcePost#).  \n  – Format mix: ≥1 poll, 2 carousels, 2 docs, 4 images, 1 video; rest plain.  \n  – Alternate soft vs hard CTAs.  \n  – Each line ≤180 chars. No bold, tables, or markdown.\n\nSTEP 4 After the calendar, output plain-text sections: \n \nTopPerformers: Post# | Date | Hook | Metric  \nThemeStats: Theme | Count | AvgMetric  \nGaps: five untapped topics + one-line reasons  \nAvoid: Post#s to rewrite or skip  \nCadenceNote: impact of chosen days vs daily  \nFinish with: DONE — reply “revise” for tweaks\n\nRULES  \n• If <10 posts: prefix “LIMITED DATA — INSIGHTS MAY BE NOISY.”  \n• Keep first line of every post ≤35 words to avoid LinkedIn truncation.  \n• No engagement-bait phrases (“Like if…”, “Comment YES…”).  \n• For carousels: include a punchy cover slide title (≤50 chars).  \n• Never exceed LinkedIn’s 3,000-character hard limit per post.\"\n\nIf you enjoy this kind of prompt, reshare it ♻️ to your network to help them prompt ChatGPT better, too.",
+  "word_count": 436,
+  "metrics": {
+    "total_reactions": 1537,
+    "likes": 1269,
+    "love": 74,
+    "insight": 147,
+    "celebrate": 28,
+    "support": 18,
+    "funny": 1,
+    "comments": 434,
+    "reposts": 79
+  }
+}
